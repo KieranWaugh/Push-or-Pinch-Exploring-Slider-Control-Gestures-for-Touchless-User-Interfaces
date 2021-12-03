@@ -134,7 +134,8 @@ class Log{
 
     void export(PApplet sketch, Log logData) throws IOException {
         Gson log = new GsonBuilder().setPrettyPrinting().create();
-        String dir = "Logs/" + PID + "/" + task + "/" + gesture;
+        //String dir = "Logs/" + PID + "/" + task + "/" + gesture;
+        String dir = "/Users/kieranwaugh/Projects/Touchless_Slider_Experiment/Logs/"+ PID + "/" + task + "/" + gesture;
         Files.createDirectories(Paths.get(dir));
         FileWriter fw = new FileWriter(dir + "/" + PID+"_"+Main.block+".json");
         fw.write(log.toJson(logData));

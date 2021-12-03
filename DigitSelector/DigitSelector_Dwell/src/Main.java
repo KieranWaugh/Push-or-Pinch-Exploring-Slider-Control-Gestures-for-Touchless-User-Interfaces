@@ -27,10 +27,12 @@ public class Main extends PApplet {
     public static int block = 0;
     boolean firstTouch = true; // for dwell
     int startTime; // for dwell
-    int timeThreshold = 500;
+    int timeThreshold = 800;
     int timeElapsed = 0;
     float start = 0;
-    float end = (float)19.5;
+    float endTime = 0;
+    float lastTime = 0;
+    float end = (float)0.45;
     boolean dwell = false;
 
     enum State {
@@ -77,8 +79,8 @@ public class Main extends PApplet {
         cursor = new Cursor(this);
         arc = new Arc(this, 40, 40);
         rectangle = new Rectangle(this, 300, 300, 100, 100);
-        //slider = new Slider(this,600, 1960, 720, 720, 9);
-        slider = new Slider(this,300, 1600, 720, 720, 10);
+        slider = new Slider(this,600, 1960, 720, 720, 9);
+        //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
         Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 2)); // plus 2 for 2nd gesture type
@@ -154,7 +156,7 @@ public class Main extends PApplet {
                     timeElapsed = 0;
                     cursor.isGestured = true;
                     cursor.update(leap);
-                    println("dwelled");
+                    //println("dwelled");
                     //addLogAction(state, "Pinch detected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
                     logData.addFrame(new Frame(FrameCategory.gestureDetected, state, "Gesture detected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     logData.addFrame(new Frame(FrameCategory.StateTransition, state, "Transitioning from states NoDwellDetected to DwellDetected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
@@ -169,6 +171,8 @@ public class Main extends PApplet {
 
                     if(firstTouch){
                         startTime = millis();
+                        lastTime = millis();
+                        endTime = millis() + timeThreshold;
                         firstTouch = false;
                     }else{
                         timeElapsed = millis() - startTime;
@@ -176,14 +180,11 @@ public class Main extends PApplet {
                     }
 
                     if (timeThreshold > timeElapsed){
-                        println("disp arc: " + start + " " + end);
-                        println(timeElapsed);
                         arc.display(cursor, start, end);
-                        //start += 0.15;
-                        if (end >= 360){
-                            println("full");
-                        }
-                        end += 19.5;
+
+                        end += 0.45 * (millis() - lastTime);
+                        lastTime = millis();
+                        println(end);
                     }
 
 
@@ -192,7 +193,8 @@ public class Main extends PApplet {
                 }else{
                     dwell = false;
                     firstTouch = true;
-                    end = 7;
+                    //end = 7;
+                    end = (float)0.45;
                     slider.circle.display(255, 0, 0);
                     cursor.update(leap);
                 }
