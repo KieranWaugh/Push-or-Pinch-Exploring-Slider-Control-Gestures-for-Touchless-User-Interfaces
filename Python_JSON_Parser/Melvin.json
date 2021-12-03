@@ -1,0 +1,3787 @@
+{
+  "PID": 1998,
+  "gesture": "pinchOnCircle",
+  "task": "digitSelector",
+  "startTime": 654,
+  "endTime": 24904,
+  "actions": [
+    {
+      "state": "NoHands",
+      "message": "Transitioning from states NoHands to NoPinchDetected",
+      "time": 13643,
+      "data": {
+        "type": "CursorPosition",
+        "data": [
+          1
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Transitioning from states NoPinchDetected to NoHands",
+      "time": 15603,
+      "data": {
+        "type": "CursorPosition",
+        "data": [
+          0
+        ]
+      }
+    },
+    {
+      "state": "NoHands",
+      "message": "Transitioning from states NoHands to NoPinchDetected",
+      "time": 15713,
+      "data": {
+        "type": "CursorPosition",
+        "data": [
+          1
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Transitioning from states NoPinchDetected to PinchDetected",
+      "time": 15734,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          1.0
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "time": 15919,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          0.6515269
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Transitioning from states NoPinchDetected to PinchDetected",
+      "time": 16894,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          0.85862863
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 16914,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          635.6214,
+          0,
+          635.6214
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 16931,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          632.4961,
+          0,
+          632.4961
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 16949,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          629.4215,
+          0,
+          629.4215
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 16968,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          626.54517,
+          0,
+          626.54517
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 16985,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          623.7885,
+          0,
+          623.7885
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17002,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          621.0679,
+          0,
+          621.0679
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17020,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          618.24133,
+          0,
+          618.24133
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17037,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          615.41016,
+          0,
+          615.41016
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17054,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          614.0928,
+          0,
+          614.0928
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17071,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          611.6289,
+          0,
+          611.6289
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17088,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          609.5526,
+          0,
+          609.5526
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17106,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          607.93665,
+          0,
+          607.93665
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17128,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          606.83966,
+          0,
+          606.83966
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17148,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          608.20605,
+          0,
+          608.20605
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17167,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          614.37524,
+          0,
+          614.37524
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17186,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          630.3101,
+          0,
+          630.3101
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17204,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          657.8723,
+          0,
+          657.8723
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17221,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          699.96594,
+          0,
+          699.96594
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17238,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          751.75244,
+          0,
+          751.75244
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17260,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          803.7648,
+          1,
+          803.7648
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17278,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          836.26636,
+          1,
+          836.26636
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17298,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          869.4026,
+          1,
+          869.4026
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17317,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          911.39124,
+          2,
+          911.39124
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17334,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          957.1592,
+          2,
+          957.1592
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 17352,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1005.875,
+          680.6814,
+          2,
+          1005.875
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17371,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1056.9766,
+          3,
+          1056.9766
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17391,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1094.8468,
+          3,
+          1094.8468
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17409,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1141.1353,
+          4,
+          1141.1353
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17427,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1172.1191,
+          4,
+          1172.1191
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17447,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1200.4905,
+          4,
+          1200.4905
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17466,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1229.7588,
+          4,
+          1229.7588
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17483,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1272.1234,
+          5,
+          1272.1234
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17500,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1289.09,
+          5,
+          1289.09
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17518,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1301.1637,
+          5,
+          1301.1637
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17535,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1323.9653,
+          5,
+          1323.9653
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17553,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1331.7775,
+          5,
+          1331.7775
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17570,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1342.5438,
+          5,
+          1337.6058
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17589,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1345.9238,
+          5,
+          1345.9238
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17610,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1347.312,
+          6,
+          1347.312
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17628,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1348.6443,
+          6,
+          1348.6443
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17650,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1349.978,
+          6,
+          1349.978
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17669,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1352.8885,
+          6,
+          1352.8885
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17687,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1355.2513,
+          6,
+          1355.2513
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17706,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1356.1067,
+          6,
+          1356.1067
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17723,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1356.5422,
+          6,
+          1356.5422
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17740,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1357.9279,
+          6,
+          1357.9279
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17757,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1359.7744,
+          6,
+          1359.7744
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17778,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1365.5482,
+          6,
+          1365.5482
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17797,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1368.3915,
+          6,
+          1368.3915
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17813,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1368.3915,
+          6,
+          1368.3915
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17831,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1386.3765,
+          6,
+          1386.3765
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17849,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1396.7997,
+          6,
+          1396.7997
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17870,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1417.0834,
+          6,
+          1417.0834
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17888,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1434.7302,
+          6,
+          1434.7302
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17905,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1452.3853,
+          6,
+          1452.3853
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17923,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1468.1917,
+          6,
+          1468.1917
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17941,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1483.0519,
+          7,
+          1483.0519
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17961,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1496.44,
+          7,
+          1496.44
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 17982,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1509.1682,
+          7,
+          1509.1682
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18001,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1522.6892,
+          7,
+          1522.6892
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18019,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1535.998,
+          7,
+          1535.998
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18037,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1547.3168,
+          7,
+          1547.3168
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18056,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1558.8523,
+          7,
+          1558.8523
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18075,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1568.5857,
+          7,
+          1568.5857
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18094,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1581.6392,
+          7,
+          1581.6392
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18112,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1586.4023,
+          7,
+          1586.4023
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18131,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1601.5754,
+          7,
+          1601.5754
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18151,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1613.2672,
+          8,
+          1613.2672
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18168,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1623.8381,
+          8,
+          1623.8381
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18186,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1633.421,
+          8,
+          1633.421
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18203,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1641.8555,
+          8,
+          1641.8555
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18220,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1645.5862,
+          8,
+          1645.5862
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18238,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1652.2128,
+          8,
+          1652.2128
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18256,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1657.8313,
+          8,
+          1657.8313
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18274,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1662.3668,
+          8,
+          1662.3668
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18291,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1666.217,
+          8,
+          1666.217
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18312,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1669.3079,
+          8,
+          1669.3079
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18331,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1672.9033,
+          8,
+          1672.9033
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18348,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1673.8744,
+          8,
+          1673.8744
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18367,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1676.3154,
+          8,
+          1676.3154
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18384,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1677.7145,
+          8,
+          1677.7145
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18403,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1678.9648,
+          8,
+          1678.9648
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18420,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1679.9412,
+          8,
+          1679.9412
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18437,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1680.3391,
+          8,
+          1680.3391
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18455,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1681.002,
+          8,
+          1681.002
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18472,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1681.533,
+          8,
+          1681.533
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18492,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1682.1344,
+          8,
+          1682.1344
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18510,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1682.2983,
+          8,
+          1682.2983
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18528,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1682.8206,
+          8,
+          1682.8206
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18548,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1683.0493,
+          8,
+          1683.0493
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18564,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1683.9158,
+          8,
+          1683.9158
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18583,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1684.2229,
+          8,
+          1684.2229
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18601,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1685.0352,
+          8,
+          1685.0352
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18618,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1685.2703,
+          8,
+          1685.2703
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18637,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1685.9432,
+          8,
+          1685.9432
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18653,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1686.176,
+          8,
+          1686.176
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18671,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1686.6464,
+          8,
+          1686.6464
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18690,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1687.1299,
+          8,
+          1687.1299
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18707,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1687.6008,
+          8,
+          1687.6008
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18723,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1688.0465,
+          8,
+          1688.0465
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18740,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1688.4973,
+          8,
+          1688.4973
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18758,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1688.988,
+          8,
+          1688.988
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18778,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1689.5547,
+          8,
+          1689.5547
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18797,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1690.2174,
+          8,
+          1690.2174
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18815,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1691.0256,
+          8,
+          1691.0256
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18835,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1692.4385,
+          8,
+          1692.4385
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18852,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1692.9565,
+          8,
+          1692.9565
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18869,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1694.0527,
+          8,
+          1694.0527
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18887,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1695.2085,
+          8,
+          1695.2085
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18907,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1696.4253,
+          8,
+          1696.4253
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18929,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1698.1716,
+          8,
+          1698.1716
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18947,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1698.7213,
+          8,
+          1698.7213
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18967,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1700.137,
+          8,
+          1700.137
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 18983,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1700.9896,
+          8,
+          1700.9896
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19002,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1701.6785,
+          8,
+          1701.6785
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19019,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1702.2036,
+          8,
+          1702.2036
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19036,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1703.0394,
+          8,
+          1703.0394
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19053,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1705.6019,
+          8,
+          1704.2173
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19071,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1707.7952,
+          8,
+          1707.7952
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19089,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1709.4656,
+          8,
+          1709.4656
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19106,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1710.301,
+          8,
+          1710.301
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19123,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1712.1179,
+          8,
+          1712.1179
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19140,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1714.6471,
+          8,
+          1714.6471
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19159,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1717.6511,
+          9,
+          1717.6511
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19177,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1720.4382,
+          9,
+          1720.4382
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19197,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1723.7626,
+          9,
+          1723.7626
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19216,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1725.6382,
+          9,
+          1724.7263
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19233,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1726.5813,
+          9,
+          1726.5813
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19251,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1729.3488,
+          9,
+          1729.3488
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19268,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1730.2715,
+          9,
+          1730.2715
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19286,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1732.3297,
+          9,
+          1732.3297
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19302,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1734.9653,
+          9,
+          1734.9653
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 19322,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1738.2194,
+          9,
+          1738.2194
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19343,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1744.4375,
+          758.1815,
+          9,
+          1744.4375
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19362,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1749.994,
+          760.6315,
+          9,
+          1749.994
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19382,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1756.3481,
+          763.4324,
+          9,
+          1756.3481
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19400,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1763.3358,
+          766.46356,
+          9,
+          1763.3358
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19421,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1770.6301,
+          769.5516,
+          9,
+          1770.6301
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19440,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1781.7444,
+          773.9347,
+          9,
+          1778.118
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19461,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1788.7881,
+          776.4941,
+          9,
+          1788.7881
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19479,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1795.2638,
+          778.6729,
+          9,
+          1795.2638
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19498,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1801.0269,
+          780.45807,
+          9,
+          1801.0269
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19517,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1806.039,
+          781.8395,
+          9,
+          1806.039
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19536,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1810.0586,
+          782.824,
+          9,
+          1810.0586
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19555,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1813.0002,
+          783.4215,
+          9,
+          1813.0002
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19572,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1814.9531,
+          783.4859,
+          9,
+          1814.9531
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "time": 19591,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          0.74651617
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor moved from slider but continued pinch",
+      "time": 19591,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1815.4921,
+          783.1028,
+          9,
+          1815.4921
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Transitioning from states NoPinchDetected to PinchDetected",
+      "time": 20094,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          0.8015817
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20536,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1786.78,
+          9,
+          1786.78
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20554,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1793.151,
+          9,
+          1793.151
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20571,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1800.1428,
+          9,
+          1800.1428
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20589,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1807.1093,
+          9,
+          1807.1093
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20609,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1813.273,
+          9,
+          1813.273
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20629,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1818.7659,
+          9,
+          1818.7659
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20645,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1823.4569,
+          9,
+          1823.4569
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20665,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1827.1904,
+          9,
+          1827.1904
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20684,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1829.8026,
+          9,
+          1829.8026
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20702,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1831.566,
+          9,
+          1831.566
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20721,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1832.7827,
+          9,
+          1832.7827
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20738,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1833.5869,
+          9,
+          1833.5869
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20754,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1834.009,
+          9,
+          1834.009
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20776,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1833.7915,
+          9,
+          1833.7915
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20793,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1832.5284,
+          9,
+          1832.5284
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20814,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1829.4551,
+          9,
+          1829.4551
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20833,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1823.969,
+          9,
+          1823.969
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20851,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1815.3391,
+          9,
+          1815.3391
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20868,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1802.8817,
+          9,
+          1802.8817
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20888,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1756.8533,
+          9,
+          1756.8533
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20905,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1734.6003,
+          9,
+          1734.6003
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20923,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1685.439,
+          9,
+          1698.1658
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20942,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1663.597,
+          8,
+          1663.597
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20961,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1645.9849,
+          8,
+          1645.9849
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20978,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1635.2358,
+          8,
+          1635.2358
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 20997,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1627.4392,
+          8,
+          1627.4392
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21015,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1619.5874,
+          8,
+          1619.5874
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21031,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1615.8701,
+          8,
+          1615.8701
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21051,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1606.9799,
+          8,
+          1606.9799
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21069,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1601.5809,
+          8,
+          1601.5809
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21087,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1596.046,
+          8,
+          1596.046
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21105,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1590.7758,
+          8,
+          1590.7758
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21123,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1586.6177,
+          8,
+          1586.6177
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21141,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1582.9529,
+          7,
+          1582.9529
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21160,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1579.8779,
+          7,
+          1579.8779
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21181,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1577.7546,
+          7,
+          1577.7546
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21201,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1576.1957,
+          7,
+          1576.1957
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21219,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1574.9885,
+          7,
+          1574.9885
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21237,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1573.8345,
+          7,
+          1573.8345
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21254,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1573.8345,
+          7,
+          1573.8345
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21272,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1571.5929,
+          7,
+          1571.5929
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21291,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1570.4106,
+          7,
+          1570.4106
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21312,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1569.1497,
+          7,
+          1569.1497
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21331,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1566.2034,
+          7,
+          1567.7506
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21348,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1563.7578,
+          7,
+          1563.7578
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21365,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1557.8463,
+          7,
+          1557.8463
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21383,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1551.613,
+          7,
+          1551.613
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21404,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1543.8367,
+          7,
+          1543.8367
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21421,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1539.8542,
+          7,
+          1539.8542
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21438,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1537.9744,
+          7,
+          1537.9744
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21457,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1533.5155,
+          7,
+          1533.5155
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21476,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1531.154,
+          7,
+          1531.154
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21494,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1529.0111,
+          7,
+          1529.0111
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21512,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1526.8243,
+          7,
+          1526.8243
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21532,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1524.6113,
+          7,
+          1524.6113
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21552,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1522.4303,
+          7,
+          1522.4303
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21569,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1520.2946,
+          7,
+          1520.2946
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21588,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1518.2549,
+          7,
+          1518.2549
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21605,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1516.3813,
+          7,
+          1516.3813
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21622,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1514.7177,
+          7,
+          1514.7177
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21639,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1513.2258,
+          7,
+          1513.2258
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21657,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1511.8965,
+          7,
+          1511.8965
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21675,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1510.7468,
+          7,
+          1510.7468
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21693,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1509.748,
+          7,
+          1509.748
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21711,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1508.8982,
+          7,
+          1508.8982
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21730,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1508.1841,
+          7,
+          1508.1841
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21748,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1507.6123,
+          7,
+          1507.6123
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21765,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1507.2697,
+          7,
+          1507.2697
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21785,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1507.0631,
+          7,
+          1507.0631
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21804,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.902,
+          7,
+          1506.902
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21821,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.7665,
+          7,
+          1506.7665
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21839,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.6349,
+          7,
+          1506.6349
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21855,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.4872,
+          7,
+          1506.4872
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21873,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.3203,
+          7,
+          1506.3203
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21890,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.1582,
+          7,
+          1506.1582
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21907,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.0845,
+          7,
+          1506.0845
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21924,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.9419,
+          7,
+          1505.9419
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21943,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.7938,
+          7,
+          1505.7938
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21962,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.5859,
+          7,
+          1505.6538
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 21981,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.5261,
+          7,
+          1505.5261
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22000,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.4249,
+          7,
+          1505.4249
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22019,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1505.616,
+          7,
+          1505.616
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22037,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1506.1763,
+          7,
+          1506.1763
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22056,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1507.0271,
+          7,
+          1507.0271
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22073,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1508.0833,
+          7,
+          1508.0833
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22093,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1509.2627,
+          7,
+          1509.2627
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22116,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1511.1172,
+          7,
+          1511.1172
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22136,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1512.4185,
+          7,
+          1512.4185
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22154,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1513.7128,
+          7,
+          1513.7128
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22174,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1515.1511,
+          7,
+          1515.1511
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22192,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1516.6987,
+          7,
+          1516.6987
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22212,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1518.3069,
+          7,
+          1518.3069
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22231,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1519.8765,
+          7,
+          1519.8765
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22250,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1521.3756,
+          7,
+          1521.3756
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22270,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1522.7981,
+          7,
+          1522.7981
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22286,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1524.0555,
+          7,
+          1524.0555
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22306,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1525.6317,
+          7,
+          1525.6317
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22326,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1526.5076,
+          7,
+          1526.5076
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22349,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1527.3455,
+          7,
+          1527.3455
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22365,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1528.1138,
+          7,
+          1528.1138
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22384,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1528.4707,
+          7,
+          1528.4707
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22402,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1528.4707,
+          7,
+          1528.4707
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22420,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1530.1017,
+          7,
+          1530.1017
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22437,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1530.5566,
+          7,
+          1530.5566
+        ]
+      }
+    },
+    {
+      "state": "PinchDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "time": 22456,
+      "data": {
+        "type": "PinchDetection",
+        "data": [
+          0.78734696
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Pinch detected on slider",
+      "time": 22456,
+      "data": {
+        "type": "SliderMoved",
+        "data": [
+          1530.6917,
+          7,
+          1530.6917
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22472,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1530.4844,
+          726.05457
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22490,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1529.931,
+          726.77704
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22508,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1529.0724,
+          727.57904
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22527,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1527.79,
+          728.9128
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22546,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1525.7681,
+          730.7541
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22564,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1523.3984,
+          732.66644
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22582,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1521.4666,
+          734.17676
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22602,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.6089,
+          734.8013
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22618,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.2759,
+          735.06305
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22637,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.2039,
+          735.1781
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22654,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.2019,
+          735.2342
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22672,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.2028,
+          735.26953
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22689,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.2017,
+          735.29913
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22708,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.1921,
+          735.36005
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22726,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.1675,
+          735.51306
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22744,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.1044,
+          735.8038
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22762,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1519.9187,
+          736.3638
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22781,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1519.5684,
+          737.2776
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22800,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.9587,
+          738.81287
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22819,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.3503,
+          740.79175
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22836,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.1887,
+          742.91797
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22854,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.2771,
+          744.39435
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22872,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.4656,
+          745.2711
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22890,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1518.8851,
+          745.82294
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22908,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1519.6099,
+          746.3202
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22926,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1520.5497,
+          746.8928
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22944,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1521.9144,
+          747.64935
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22963,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1524.0255,
+          748.7385
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 22984,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1528.7623,
+          751.19806
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 23002,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1530.8445,
+          752.27344
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "time": 23022,
+      "data": {
+        "type": "CursorOverSlider",
+        "data": [
+          1538.4459,
+          756.36884
+        ]
+      }
+    },
+    {
+      "state": "NoPinchDetected",
+      "message": "Transitioning from states NoPinchDetected to NoHands",
+      "time": 23357,
+      "data": {
+        "type": "CursorPosition",
+        "data": [
+          0
+        ]
+      }
+    },
+    {
+      "state": "NoHands",
+      "message": "Participant instructed that the task is complete",
+      "time": 24903
+    }
+  ]
+}
