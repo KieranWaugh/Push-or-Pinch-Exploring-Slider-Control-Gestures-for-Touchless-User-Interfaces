@@ -26,10 +26,6 @@ public class Main extends PApplet {
     int digitIndex = 0;
     public static int block = 0;
 
-    float pinchCoordX;
-    float pinchCoordY;
-    float lastCursorX;
-
     PVector plane;
 
     enum State {
@@ -152,7 +148,7 @@ public class Main extends PApplet {
                 }
 
                 cursor.avgZ = (float) cursor.zvalues.stream().mapToDouble(val -> val).average().orElse(0.0);
-                println(cursor.avgZ);
+                //println(cursor.avgZ);
 
 
                 if (cursor.isTapTest(leap)){
@@ -161,19 +157,6 @@ public class Main extends PApplet {
                     logData.addFrame(new Frame(FrameCategory.StateTransition, state, "Transitioning from states NoPinchDetected to PinchDetected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     state = State.PinchDetected;
                 }
-
-//                if (cursor.isPinchingTest(leap)){
-//                    //addLogAction(state, "Pinch detected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
-//                    logData.addFrame(new Frame(FrameCategory.gestureDetected, state, "Gesture detected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-//                    logData.addFrame(new Frame(FrameCategory.StateTransition, state, "Transitioning from states NoPinchDetected to PinchDetected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-//                    //addLogAction(state, "Transitioning from states NoPinchDetected to PinchDetected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
-//                    pinchCoordX = cursor.x;
-//                    //println("pinch: " + pinchCoordX);
-//                    //println("slider: " + slider.circle.xCoor);
-//                    pinchCoordY = cursor.y;
-//                    lastCursorX = cursor.x;
-//                    state = State.PinchDetected;
-//                }
 
                 if (slider.overCircle(cursor, slider.circle.xCoor, slider.circle.yCoor, 75)){
                     slider.circle.colour(0, 68, 255);
@@ -231,7 +214,7 @@ public class Main extends PApplet {
 
     @Override
     public void keyPressed(){
-        if(key == 0x20){
+        if(key == TAB){
             try {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 
