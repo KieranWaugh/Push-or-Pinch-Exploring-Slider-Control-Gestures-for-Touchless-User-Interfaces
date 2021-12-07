@@ -46,7 +46,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(2);
+        fullScreen(1);
     }
 
     @Override
@@ -77,7 +77,7 @@ public class Main extends PApplet {
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
-        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0])));
+        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 1)); // 1 for baseline
         println(digits);
 
         // FOR LOGGING /////////////////////
@@ -109,7 +109,6 @@ public class Main extends PApplet {
 
     @Override
     public void draw(){
-        //println(leap.getController().frame().interactionBox().toString());
         background(255);
 
         textSize(50);

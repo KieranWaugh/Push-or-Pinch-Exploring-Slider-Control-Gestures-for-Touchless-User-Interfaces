@@ -43,32 +43,17 @@ class Cursor{
     }
 
     public void update(LeapMotion leap){
-        //InteractionBox interactionBox = new InteractionBox();
-        //Hand hand = leap.getFrontHand(); //Why isnt this working!
-        //for (Hand hand : leap.getHands()) {
 
-        Hand right = leap.getRightHand();
-        Hand left = leap.getLeftHand();
-        frontHand = leap.getRightHand(); // initialise with right hand
-
+        //fronthand = leap.getFrontHand(); // Why isnt this working!, the api is shit
+        frontHand = new Hand(sketch, leap, leap.getController().frame().hands().frontmost()); //get front hand so it does not crash! lol this bug took a week to find kms
 
         if(leap.countHands() >=1) {
 
-            //println(leap.getController().frame().);
-            if (right.getStabilizedPosition().z >= left.getStabilizedPosition().z) {
-                frontHand = right;
-            } else {
-                frontHand = left;
-            }
 
 
             if(!isGesture){
                 zvalues.add(frontHand.getFrontFinger().getPosition().z);
             }
-
-            //println(leap.getDevices().get(0).getRaw().distanceToBoundary(frontHand.getFrontFinger().getRaw().tipPosition()));
-            //println(interactionBox.center());
-            //println("Z axis: " + frontHand.getFrontFinger().getPosition().z);
 
             for (Finger finger : frontHand.getFingers()) {
                 if (finger.getType() == 1) {

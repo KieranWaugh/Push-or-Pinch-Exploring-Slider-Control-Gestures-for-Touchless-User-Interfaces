@@ -47,7 +47,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(2);
+        fullScreen(1);
     }
 
     @Override
