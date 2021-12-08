@@ -46,7 +46,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(1);
+        fullScreen(2);
     }
 
     @Override
@@ -98,6 +98,7 @@ public class Main extends PApplet {
         logData.PID = Integer.parseInt(clArgs[0]);
         logData.selectionMethod = clArgs[1];
         logData.setting = clArgs[2];
+        logData.block = block;
         logData.target = digits.get(digitIndex);
         logData.startTime = millis();
 

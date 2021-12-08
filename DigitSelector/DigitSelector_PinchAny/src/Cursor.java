@@ -37,16 +37,10 @@ class Cursor{
 
         Hand right = leap.getRightHand();
         Hand left = leap.getLeftHand();
-        Hand frontHand = leap.getRightHand(); // initialise with right hand
+        //Hand frontHand = leap.getRightHand(); // initialise with right hand
+        Hand frontHand = new Hand(sketch,leap, leap.getController().frame().hands().frontmost());
 
         if(leap.countHands() >=1) {
-
-
-            if (right.getStabilizedPosition().z >= left.getStabilizedPosition().z) {
-                frontHand = right;
-            } else {
-                frontHand = left;
-            }
 
 
             for (Finger finger : frontHand.getFingers()) {

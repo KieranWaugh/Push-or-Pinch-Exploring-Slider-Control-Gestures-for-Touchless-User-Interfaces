@@ -1,0 +1,4684 @@
+{
+  "PID": -1,
+  "gesture": "Dwell",
+  "task": "alphaSelector",
+  "target": "J",
+  "block": 0,
+  "startTime": 14787,
+  "endTime": 21581,
+  "frames": [
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 776.6537,
+      "cursor_y": 735.1873,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "NoHands",
+      "message": "Transitioning from states NoHands to NoPinchDetected",
+      "cursor_X": 776.6537,
+      "cursor_y": 735.1873,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 776.90607,
+      "cursor_y": 735.19403,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected",
+      "cursor_X": 776.90607,
+      "cursor_y": 735.19403,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "NoDwellDetected",
+      "message": "Transitioning from states NoDwellDetected to DwellDetected",
+      "cursor_X": 776.90607,
+      "cursor_y": 735.19403,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 777.2871,
+      "cursor_y": 735.2027,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "DwellDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "cursor_X": 777.2871,
+      "cursor_y": 735.2027,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureNoLongerDetected",
+      "state": "DwellDetected",
+      "message": "Gesture no longer detected",
+      "cursor_X": 777.2871,
+      "cursor_y": 735.2027,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected not on slider",
+      "cursor_X": 777.2871,
+      "cursor_y": 735.2027,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.49866,
+      "cursor_y": 735.2057,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.67126,
+      "cursor_y": 735.20654,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.708,
+      "cursor_y": 735.2064,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.796,
+      "cursor_y": 735.20514,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.82733,
+      "cursor_y": 735.20447,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.85,
+      "cursor_y": 735.20374,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.8827,
+      "cursor_y": 735.2022,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.89355,
+      "cursor_y": 735.2016,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.9056,
+      "cursor_y": 735.20074,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.93506,
+      "cursor_y": 735.198,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.9751,
+      "cursor_y": 735.1934,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 778.0851,
+      "cursor_y": 735.17053,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 778.1715,
+      "cursor_y": 735.1284,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 778.17993,
+      "cursor_y": 735.05865,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 777.719,
+      "cursor_y": 734.88715,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 776.82654,
+      "cursor_y": 734.7138,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 773.8189,
+      "cursor_y": 734.28674,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 770.4901,
+      "cursor_y": 733.91266,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 765.7507,
+      "cursor_y": 733.4549,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 754.7644,
+      "cursor_y": 732.5123,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 746.281,
+      "cursor_y": 731.9625,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 737.578,
+      "cursor_y": 731.485,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 728.54236,
+      "cursor_y": 731.0662,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 719.4282,
+      "cursor_y": 730.68475,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 709.99524,
+      "cursor_y": 730.35724,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 700.58844,
+      "cursor_y": 730.08966,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 691.562,
+      "cursor_y": 729.9012,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 683.27655,
+      "cursor_y": 729.8001,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 672.36,
+      "cursor_y": 729.794,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 666.1126,
+      "cursor_y": 729.8272,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 660.49646,
+      "cursor_y": 729.87915,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 655.4051,
+      "cursor_y": 729.9477,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 650.651,
+      "cursor_y": 730.0323,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.1912,
+      "cursor_y": 730.1985,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 642.2825,
+      "cursor_y": 730.2589,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 638.60626,
+      "cursor_y": 730.39777,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 634.9702,
+      "cursor_y": 730.56964,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 634.9702,
+      "cursor_y": 730.56964,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 629.7321,
+      "cursor_y": 730.8786,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 629.7321,
+      "cursor_y": 730.8786,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 626.54535,
+      "cursor_y": 731.1105,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 626.54535,
+      "cursor_y": 731.1105,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 623.5564,
+      "cursor_y": 731.35736,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 623.5564,
+      "cursor_y": 731.35736,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 620.78674,
+      "cursor_y": 731.60175,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 620.78674,
+      "cursor_y": 731.60175,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 618.15356,
+      "cursor_y": 731.86505,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 618.15356,
+      "cursor_y": 731.86505,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 615.6919,
+      "cursor_y": 732.1426,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 615.6919,
+      "cursor_y": 732.1426,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 613.3837,
+      "cursor_y": 732.426,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 613.3837,
+      "cursor_y": 732.426,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 611.28955,
+      "cursor_y": 732.7024,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 611.28955,
+      "cursor_y": 732.7024,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 608.775,
+      "cursor_y": 733.0381,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 608.775,
+      "cursor_y": 733.0381,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 607.5756,
+      "cursor_y": 733.1981,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 607.5756,
+      "cursor_y": 733.1981,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 606.70325,
+      "cursor_y": 733.3119,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 606.70325,
+      "cursor_y": 733.3119,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 605.6233,
+      "cursor_y": 733.44916,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 605.6233,
+      "cursor_y": 733.44916,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 604.9628,
+      "cursor_y": 733.5351,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 604.9628,
+      "cursor_y": 733.5351,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 604.70123,
+      "cursor_y": 733.569,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 604.70123,
+      "cursor_y": 733.569,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 604.525,
+      "cursor_y": 733.5925,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 604.525,
+      "cursor_y": 733.5925,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 604.327,
+      "cursor_y": 733.6192,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 604.327,
+      "cursor_y": 733.6192,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 604.0667,
+      "cursor_y": 733.6542,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 604.0667,
+      "cursor_y": 733.6542,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 603.9214,
+      "cursor_y": 733.6736,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 603.9214,
+      "cursor_y": 733.6736,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 603.22705,
+      "cursor_y": 733.7624,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 603.22705,
+      "cursor_y": 733.7624,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 602.3188,
+      "cursor_y": 733.8705,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 602.3188,
+      "cursor_y": 733.8705,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 601.5864,
+      "cursor_y": 733.9543,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 601.5864,
+      "cursor_y": 733.9543,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 601.23584,
+      "cursor_y": 733.9936,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 601.23584,
+      "cursor_y": 733.9936,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 600.72626,
+      "cursor_y": 734.0512,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 600.72626,
+      "cursor_y": 734.0512,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 600.4074,
+      "cursor_y": 734.088,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 600.4074,
+      "cursor_y": 734.088,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 600.0998,
+      "cursor_y": 734.124,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 600.0998,
+      "cursor_y": 734.124,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 599.81274,
+      "cursor_y": 734.15753,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 599.81274,
+      "cursor_y": 734.15753,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 599.26624,
+      "cursor_y": 734.2203,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 599.26624,
+      "cursor_y": 734.2203,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 598.7808,
+      "cursor_y": 734.2739,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 598.7808,
+      "cursor_y": 734.2739,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 598.317,
+      "cursor_y": 734.3223,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 598.317,
+      "cursor_y": 734.3223,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 598.1186,
+      "cursor_y": 734.3424,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 598.1186,
+      "cursor_y": 734.3424,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 598.0209,
+      "cursor_y": 734.3523,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 598.0209,
+      "cursor_y": 734.3523,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 597.95593,
+      "cursor_y": 734.3588,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 597.95593,
+      "cursor_y": 734.3588,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 597.8888,
+      "cursor_y": 734.36584,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected",
+      "cursor_X": 597.8888,
+      "cursor_y": 734.36584,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "NoDwellDetected",
+      "message": "Transitioning from states NoDwellDetected to DwellDetected",
+      "cursor_X": 597.8888,
+      "cursor_y": 734.36584,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "DwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 597.8888,
+      "cursor_y": 734.36584,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.84326,
+      "cursor_y": 734.37067,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.84326,
+      "cursor_y": 734.37067,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.8002,
+      "cursor_y": 734.37537,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.8002,
+      "cursor_y": 734.37537,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.75854,
+      "cursor_y": 734.37946,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.75854,
+      "cursor_y": 734.37946,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.688,
+      "cursor_y": 734.3859,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.688,
+      "cursor_y": 734.3859,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.62244,
+      "cursor_y": 734.39044,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.62244,
+      "cursor_y": 734.39044,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.54626,
+      "cursor_y": 734.39276,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.54626,
+      "cursor_y": 734.39276,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.4601,
+      "cursor_y": 734.3922,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.4601,
+      "cursor_y": 734.3922,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.3162,
+      "cursor_y": 734.3874,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.3162,
+      "cursor_y": 734.3874,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.21375,
+      "cursor_y": 734.3831,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.21375,
+      "cursor_y": 734.3831,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.1107,
+      "cursor_y": 734.3783,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.1107,
+      "cursor_y": 734.3783,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 597.00446,
+      "cursor_y": 734.3728,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 597.00446,
+      "cursor_y": 734.3728,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.8926,
+      "cursor_y": 734.36597,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.8926,
+      "cursor_y": 734.36597,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.7144,
+      "cursor_y": 734.3534,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.7144,
+      "cursor_y": 734.3534,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.5925,
+      "cursor_y": 734.34344,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.5925,
+      "cursor_y": 734.34344,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.4704,
+      "cursor_y": 734.33124,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.4704,
+      "cursor_y": 734.33124,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.3579,
+      "cursor_y": 734.31586,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.3579,
+      "cursor_y": 734.31586,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.20355,
+      "cursor_y": 734.2919,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.20355,
+      "cursor_y": 734.2919,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.10376,
+      "cursor_y": 734.2759,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.10376,
+      "cursor_y": 734.2759,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.997,
+      "cursor_y": 734.2582,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.997,
+      "cursor_y": 734.2582,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.8834,
+      "cursor_y": 734.2391,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.8834,
+      "cursor_y": 734.2391,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.7757,
+      "cursor_y": 734.22217,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.7757,
+      "cursor_y": 734.22217,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.6849,
+      "cursor_y": 734.20776,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.6849,
+      "cursor_y": 734.20776,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.6152,
+      "cursor_y": 734.19653,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.6152,
+      "cursor_y": 734.19653,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.53986,
+      "cursor_y": 734.1837,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.53986,
+      "cursor_y": 734.1837,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.52075,
+      "cursor_y": 734.18024,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.4993,
+      "cursor_y": 734.1762,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.4452,
+      "cursor_y": 734.16486,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.4452,
+      "cursor_y": 734.16486,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.37915,
+      "cursor_y": 734.1488,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.37915,
+      "cursor_y": 734.1488,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.3115,
+      "cursor_y": 734.12317,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.3115,
+      "cursor_y": 734.12317,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.34454,
+      "cursor_y": 734.0492,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.34454,
+      "cursor_y": 734.0492,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 595.53314,
+      "cursor_y": 734.0065,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 595.53314,
+      "cursor_y": 734.0065,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 596.58325,
+      "cursor_y": 733.8968,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 596.58325,
+      "cursor_y": 733.8968,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 598.96484,
+      "cursor_y": 733.72723,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 598.96484,
+      "cursor_y": 733.72723,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 603.3045,
+      "cursor_y": 733.5157,
+      "slider_position_X": 600.0,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 603.3045,
+      "cursor_y": 733.5157,
+      "slider_position_X": 603.3045,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 611.1285,
+      "cursor_y": 733.32086,
+      "slider_position_X": 603.3045,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 611.1285,
+      "cursor_y": 733.32086,
+      "slider_position_X": 611.1285,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 630.97784,
+      "cursor_y": 733.29175,
+      "slider_position_X": 611.1285,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 630.97784,
+      "cursor_y": 733.29175,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 630.97784,
+      "cursor_y": 733.29175,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 630.97784,
+      "cursor_y": 733.29175,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 674.62366,
+      "cursor_y": 732.91455,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "DwellDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "cursor_X": 674.62366,
+      "cursor_y": 732.91455,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureNoLongerDetected",
+      "state": "DwellDetected",
+      "message": "Gesture no longer detected",
+      "cursor_X": 674.62366,
+      "cursor_y": 732.91455,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected not on slider",
+      "cursor_X": 674.62366,
+      "cursor_y": 732.91455,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 697.47473,
+      "cursor_y": 732.53314,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected",
+      "cursor_X": 697.47473,
+      "cursor_y": 732.53314,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "NoDwellDetected",
+      "message": "Transitioning from states NoDwellDetected to DwellDetected",
+      "cursor_X": 697.47473,
+      "cursor_y": 732.53314,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 723.55646,
+      "cursor_y": 732.1808,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "DwellDetected",
+      "message": "Transitioning from states PinchDetected to NoPinchDetected",
+      "cursor_X": 723.55646,
+      "cursor_y": 732.1808,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureNoLongerDetected",
+      "state": "DwellDetected",
+      "message": "Gesture no longer detected",
+      "cursor_X": 723.55646,
+      "cursor_y": 732.1808,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected not on slider",
+      "cursor_X": 723.55646,
+      "cursor_y": 732.1808,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 748.1744,
+      "cursor_y": 731.67896,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 771.81244,
+      "cursor_y": 731.32935,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 806.0514,
+      "cursor_y": 731.1291,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 817.87366,
+      "cursor_y": 731.1405,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 840.4547,
+      "cursor_y": 731.19037,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 862.44556,
+      "cursor_y": 731.1729,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 881.6037,
+      "cursor_y": 730.8173,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 908.7682,
+      "cursor_y": 729.74554,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 926.7,
+      "cursor_y": 728.7969,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 944.32996,
+      "cursor_y": 727.7082,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 961.2067,
+      "cursor_y": 726.45886,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 978.1567,
+      "cursor_y": 725.4969,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 995.8661,
+      "cursor_y": 724.9812,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1012.3382,
+      "cursor_y": 723.982,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1028.715,
+      "cursor_y": 722.99347,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1043.5592,
+      "cursor_y": 722.1843,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1070.9423,
+      "cursor_y": 721.81384,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1091.6326,
+      "cursor_y": 721.9917,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1107.7028,
+      "cursor_y": 721.59033,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1114.1526,
+      "cursor_y": 721.4453,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1118.5189,
+      "cursor_y": 721.3336,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1120.4187,
+      "cursor_y": 721.24225,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1121.5918,
+      "cursor_y": 721.1013,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1122.0153,
+      "cursor_y": 720.76263,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1121.2103,
+      "cursor_y": 720.5143,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1119.1384,
+      "cursor_y": 720.2338,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1115.4196,
+      "cursor_y": 719.9618,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1109.2083,
+      "cursor_y": 719.78345,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1099.3652,
+      "cursor_y": 719.569,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1085.7445,
+      "cursor_y": 719.26495,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1066.313,
+      "cursor_y": 718.64514,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1041.6233,
+      "cursor_y": 718.01276,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 1013.7934,
+      "cursor_y": 717.13617,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 983.7899,
+      "cursor_y": 716.42834,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 951.64014,
+      "cursor_y": 715.1927,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 916.6155,
+      "cursor_y": 713.93933,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 882.07886,
+      "cursor_y": 713.2195,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 846.5892,
+      "cursor_y": 712.5673,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 816.6555,
+      "cursor_y": 712.83685,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 793.3552,
+      "cursor_y": 713.539,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 770.2588,
+      "cursor_y": 714.01776,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 749.1126,
+      "cursor_y": 714.58136,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 730.92175,
+      "cursor_y": 715.3841,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 715.1508,
+      "cursor_y": 716.34467,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 697.84314,
+      "cursor_y": 717.00586,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 692.90283,
+      "cursor_y": 717.283,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 680.4546,
+      "cursor_y": 718.55133,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 674.1433,
+      "cursor_y": 719.573,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 669.0303,
+      "cursor_y": 720.2827,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 664.6919,
+      "cursor_y": 720.66956,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 664.6919,
+      "cursor_y": 720.66956,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 662.025,
+      "cursor_y": 720.91235,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 661.09546,
+      "cursor_y": 721.0121,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 659.5263,
+      "cursor_y": 721.40607,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 659.5263,
+      "cursor_y": 721.40607,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 658.3562,
+      "cursor_y": 721.85004,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 658.3562,
+      "cursor_y": 721.85004,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 658.3562,
+      "cursor_y": 721.85004,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 658.3562,
+      "cursor_y": 721.85004,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 656.8349,
+      "cursor_y": 722.52936,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 656.8349,
+      "cursor_y": 722.52936,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 656.29016,
+      "cursor_y": 722.8783,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 656.29016,
+      "cursor_y": 722.8783,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 655.8644,
+      "cursor_y": 723.30774,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 655.8644,
+      "cursor_y": 723.30774,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 655.56024,
+      "cursor_y": 723.74347,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 655.56024,
+      "cursor_y": 723.74347,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 655.3081,
+      "cursor_y": 724.14966,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 655.3081,
+      "cursor_y": 724.14966,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 655.00745,
+      "cursor_y": 724.5094,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 655.00745,
+      "cursor_y": 724.5094,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 654.546,
+      "cursor_y": 724.76697,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 654.546,
+      "cursor_y": 724.76697,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 653.38934,
+      "cursor_y": 725.1475,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 653.38934,
+      "cursor_y": 725.1475,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 651.0958,
+      "cursor_y": 725.6465,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 651.0958,
+      "cursor_y": 725.6465,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 649.04614,
+      "cursor_y": 726.07074,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 649.04614,
+      "cursor_y": 726.07074,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 647.3713,
+      "cursor_y": 726.5055,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 647.3713,
+      "cursor_y": 726.5055,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 646.7345,
+      "cursor_y": 726.6949,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 646.7345,
+      "cursor_y": 726.6949,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 646.2562,
+      "cursor_y": 726.8473,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 646.2562,
+      "cursor_y": 726.8473,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 645.88696,
+      "cursor_y": 726.9764,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 645.88696,
+      "cursor_y": 726.9764,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 645.37866,
+      "cursor_y": 727.16656,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 645.37866,
+      "cursor_y": 727.16656,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 645.0218,
+      "cursor_y": 727.3119,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 645.0218,
+      "cursor_y": 727.3119,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.8275,
+      "cursor_y": 727.39075,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.8275,
+      "cursor_y": 727.39075,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.63556,
+      "cursor_y": 727.46735,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.63556,
+      "cursor_y": 727.46735,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.5492,
+      "cursor_y": 727.50055,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.5492,
+      "cursor_y": 727.50055,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.45325,
+      "cursor_y": 727.53625,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.45325,
+      "cursor_y": 727.53625,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.33374,
+      "cursor_y": 727.57983,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.33374,
+      "cursor_y": 727.57983,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.20764,
+      "cursor_y": 727.62604,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.20764,
+      "cursor_y": 727.62604,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 644.0368,
+      "cursor_y": 727.68866,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 644.0368,
+      "cursor_y": 727.68866,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 643.83655,
+      "cursor_y": 727.7618,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 643.83655,
+      "cursor_y": 727.7618,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 643.59204,
+      "cursor_y": 727.84937,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 643.59204,
+      "cursor_y": 727.84937,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 643.2506,
+      "cursor_y": 727.9744,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 643.2506,
+      "cursor_y": 727.9744,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 643.1049,
+      "cursor_y": 728.0293,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 643.1049,
+      "cursor_y": 728.0293,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 642.89374,
+      "cursor_y": 728.1103,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoDwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 642.89374,
+      "cursor_y": 728.1103,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoDwellDetected",
+      "cursor_X": 642.763,
+      "cursor_y": 728.1608,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "gestureDetected",
+      "state": "NoDwellDetected",
+      "message": "Gesture detected",
+      "cursor_X": 642.763,
+      "cursor_y": 728.1608,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "StateTransition",
+      "state": "NoDwellDetected",
+      "message": "Transitioning from states NoDwellDetected to DwellDetected",
+      "cursor_X": 642.763,
+      "cursor_y": 728.1608,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "DwellDetected",
+      "message": "Cursor is over circle without Dwell detection",
+      "cursor_X": 642.763,
+      "cursor_y": 728.1608,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.67017,
+      "cursor_y": 728.1965,
+      "slider_position_X": 630.97784,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.67017,
+      "cursor_y": 728.1965,
+      "slider_position_X": 642.67017,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.6202,
+      "cursor_y": 728.21564,
+      "slider_position_X": 642.67017,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.6202,
+      "cursor_y": 728.21564,
+      "slider_position_X": 642.6202,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.5632,
+      "cursor_y": 728.2358,
+      "slider_position_X": 642.6202,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.5632,
+      "cursor_y": 728.2358,
+      "slider_position_X": 642.5632,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.49536,
+      "cursor_y": 728.2551,
+      "slider_position_X": 642.5632,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.49536,
+      "cursor_y": 728.2551,
+      "slider_position_X": 642.49536,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.3862,
+      "cursor_y": 728.28015,
+      "slider_position_X": 642.49536,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.3862,
+      "cursor_y": 728.28015,
+      "slider_position_X": 642.3862,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.3246,
+      "cursor_y": 728.29236,
+      "slider_position_X": 642.3862,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.3246,
+      "cursor_y": 728.29236,
+      "slider_position_X": 642.3246,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.25757,
+      "cursor_y": 728.30444,
+      "slider_position_X": 642.3246,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.25757,
+      "cursor_y": 728.30444,
+      "slider_position_X": 642.25757,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.14734,
+      "cursor_y": 728.3223,
+      "slider_position_X": 642.25757,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.14734,
+      "cursor_y": 728.3223,
+      "slider_position_X": 642.14734,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.0602,
+      "cursor_y": 728.3338,
+      "slider_position_X": 642.14734,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.0602,
+      "cursor_y": 728.3338,
+      "slider_position_X": 642.0602,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.95746,
+      "cursor_y": 728.345,
+      "slider_position_X": 642.0602,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.95746,
+      "cursor_y": 728.345,
+      "slider_position_X": 641.95746,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.841,
+      "cursor_y": 728.35657,
+      "slider_position_X": 641.95746,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.841,
+      "cursor_y": 728.35657,
+      "slider_position_X": 641.841,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.7115,
+      "cursor_y": 728.36804,
+      "slider_position_X": 641.841,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.7115,
+      "cursor_y": 728.36804,
+      "slider_position_X": 641.7115,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.57806,
+      "cursor_y": 728.3785,
+      "slider_position_X": 641.7115,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.57806,
+      "cursor_y": 728.3785,
+      "slider_position_X": 641.57806,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.45703,
+      "cursor_y": 728.3874,
+      "slider_position_X": 641.57806,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.45703,
+      "cursor_y": 728.3874,
+      "slider_position_X": 641.45703,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.3688,
+      "cursor_y": 728.3938,
+      "slider_position_X": 641.45703,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.3688,
+      "cursor_y": 728.3938,
+      "slider_position_X": 641.3688,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.29504,
+      "cursor_y": 728.3988,
+      "slider_position_X": 641.3688,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.29504,
+      "cursor_y": 728.3988,
+      "slider_position_X": 641.29504,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.21387,
+      "cursor_y": 728.4028,
+      "slider_position_X": 641.29504,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.21387,
+      "cursor_y": 728.4028,
+      "slider_position_X": 641.21387,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.14954,
+      "cursor_y": 728.4009,
+      "slider_position_X": 641.21387,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.14954,
+      "cursor_y": 728.4009,
+      "slider_position_X": 641.14954,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.137,
+      "cursor_y": 728.39996,
+      "slider_position_X": 641.14954,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.137,
+      "cursor_y": 728.39996,
+      "slider_position_X": 641.137,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.15247,
+      "cursor_y": 728.40063,
+      "slider_position_X": 641.137,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.15247,
+      "cursor_y": 728.40063,
+      "slider_position_X": 641.15247,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.1891,
+      "cursor_y": 728.40216,
+      "slider_position_X": 641.15247,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.1891,
+      "cursor_y": 728.40216,
+      "slider_position_X": 641.1891,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.32153,
+      "cursor_y": 728.40576,
+      "slider_position_X": 641.1891,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.32153,
+      "cursor_y": 728.40576,
+      "slider_position_X": 641.32153,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 641.55115,
+      "cursor_y": 728.4061,
+      "slider_position_X": 641.32153,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 641.55115,
+      "cursor_y": 728.4061,
+      "slider_position_X": 641.55115,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 642.3003,
+      "cursor_y": 728.4007,
+      "slider_position_X": 641.55115,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 642.3003,
+      "cursor_y": 728.4007,
+      "slider_position_X": 642.3003,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 643.0867,
+      "cursor_y": 728.40216,
+      "slider_position_X": 642.3003,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 643.0867,
+      "cursor_y": 728.40216,
+      "slider_position_X": 643.0867,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 644.32153,
+      "cursor_y": 728.4047,
+      "slider_position_X": 643.0867,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 644.32153,
+      "cursor_y": 728.4047,
+      "slider_position_X": 644.32153,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 645.98474,
+      "cursor_y": 728.3973,
+      "slider_position_X": 644.32153,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 645.98474,
+      "cursor_y": 728.3973,
+      "slider_position_X": 645.98474,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 647.9754,
+      "cursor_y": 728.36633,
+      "slider_position_X": 645.98474,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 647.9754,
+      "cursor_y": 728.36633,
+      "slider_position_X": 647.9754,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 650.43896,
+      "cursor_y": 728.3169,
+      "slider_position_X": 647.9754,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 650.43896,
+      "cursor_y": 728.3169,
+      "slider_position_X": 650.43896,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 653.4331,
+      "cursor_y": 728.2503,
+      "slider_position_X": 650.43896,
+      "slider_value": "A"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 653.4331,
+      "cursor_y": 728.2503,
+      "slider_position_X": 653.4331,
+      "slider_value": "A"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 656.83875,
+      "cursor_y": 728.1693,
+      "slider_position_X": 653.4331,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 656.83875,
+      "cursor_y": 728.1693,
+      "slider_position_X": 656.83875,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 660.577,
+      "cursor_y": 728.0756,
+      "slider_position_X": 656.83875,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 660.577,
+      "cursor_y": 728.0756,
+      "slider_position_X": 660.577,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 664.406,
+      "cursor_y": 727.9677,
+      "slider_position_X": 660.577,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 664.406,
+      "cursor_y": 727.9677,
+      "slider_position_X": 664.406,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 668.2572,
+      "cursor_y": 727.8309,
+      "slider_position_X": 664.406,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 668.2572,
+      "cursor_y": 727.8309,
+      "slider_position_X": 668.2572,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 674.1405,
+      "cursor_y": 727.5856,
+      "slider_position_X": 668.2572,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 674.1405,
+      "cursor_y": 727.5856,
+      "slider_position_X": 674.1405,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 676.16736,
+      "cursor_y": 727.4946,
+      "slider_position_X": 674.1405,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 676.16736,
+      "cursor_y": 727.4946,
+      "slider_position_X": 676.16736,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 683.0296,
+      "cursor_y": 727.2584,
+      "slider_position_X": 676.16736,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 683.0296,
+      "cursor_y": 727.2584,
+      "slider_position_X": 683.0296,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 688.6391,
+      "cursor_y": 727.1841,
+      "slider_position_X": 683.0296,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 688.6391,
+      "cursor_y": 727.1841,
+      "slider_position_X": 688.6391,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 694.4054,
+      "cursor_y": 727.09753,
+      "slider_position_X": 688.6391,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 694.4054,
+      "cursor_y": 727.09753,
+      "slider_position_X": 694.4054,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 699.86523,
+      "cursor_y": 726.97656,
+      "slider_position_X": 694.4054,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 699.86523,
+      "cursor_y": 726.97656,
+      "slider_position_X": 699.86523,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 709.2472,
+      "cursor_y": 726.74316,
+      "slider_position_X": 699.86523,
+      "slider_value": "B"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 709.2472,
+      "cursor_y": 726.74316,
+      "slider_position_X": 709.2472,
+      "slider_value": "B"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 716.86835,
+      "cursor_y": 726.5238,
+      "slider_position_X": 709.2472,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 716.86835,
+      "cursor_y": 726.5238,
+      "slider_position_X": 716.86835,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 723.9315,
+      "cursor_y": 726.43085,
+      "slider_position_X": 716.86835,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 723.9315,
+      "cursor_y": 726.43085,
+      "slider_position_X": 723.9315,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 729.8082,
+      "cursor_y": 726.3889,
+      "slider_position_X": 723.9315,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 729.8082,
+      "cursor_y": 726.3889,
+      "slider_position_X": 729.8082,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 740.6892,
+      "cursor_y": 726.32605,
+      "slider_position_X": 729.8082,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 740.6892,
+      "cursor_y": 726.32605,
+      "slider_position_X": 740.6892,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 749.71625,
+      "cursor_y": 726.242,
+      "slider_position_X": 740.6892,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 749.71625,
+      "cursor_y": 726.242,
+      "slider_position_X": 749.71625,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 759.35144,
+      "cursor_y": 726.0932,
+      "slider_position_X": 749.71625,
+      "slider_value": "C"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 759.35144,
+      "cursor_y": 726.0932,
+      "slider_position_X": 759.35144,
+      "slider_value": "C"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 769.29004,
+      "cursor_y": 725.92303,
+      "slider_position_X": 759.35144,
+      "slider_value": "D"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 769.29004,
+      "cursor_y": 725.92303,
+      "slider_position_X": 769.29004,
+      "slider_value": "D"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 779.9597,
+      "cursor_y": 725.78345,
+      "slider_position_X": 769.29004,
+      "slider_value": "D"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 779.9597,
+      "cursor_y": 725.78345,
+      "slider_position_X": 779.9597,
+      "slider_value": "D"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 791.2257,
+      "cursor_y": 725.6216,
+      "slider_position_X": 779.9597,
+      "slider_value": "D"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 791.2257,
+      "cursor_y": 725.6216,
+      "slider_position_X": 791.2257,
+      "slider_value": "D"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 803.72437,
+      "cursor_y": 725.63165,
+      "slider_position_X": 791.2257,
+      "slider_value": "D"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 803.72437,
+      "cursor_y": 725.63165,
+      "slider_position_X": 803.72437,
+      "slider_value": "D"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 816.68884,
+      "cursor_y": 725.70844,
+      "slider_position_X": 803.72437,
+      "slider_value": "D"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 816.68884,
+      "cursor_y": 725.70844,
+      "slider_position_X": 816.68884,
+      "slider_value": "D"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 828.95874,
+      "cursor_y": 725.69055,
+      "slider_position_X": 816.68884,
+      "slider_value": "E"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 828.95874,
+      "cursor_y": 725.69055,
+      "slider_position_X": 828.95874,
+      "slider_value": "E"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 852.3954,
+      "cursor_y": 725.2771,
+      "slider_position_X": 828.95874,
+      "slider_value": "E"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 852.3954,
+      "cursor_y": 725.2771,
+      "slider_position_X": 852.3954,
+      "slider_value": "E"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 875.64307,
+      "cursor_y": 724.27185,
+      "slider_position_X": 852.3954,
+      "slider_value": "E"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 875.64307,
+      "cursor_y": 724.27185,
+      "slider_position_X": 875.64307,
+      "slider_value": "E"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 907.807,
+      "cursor_y": 722.83386,
+      "slider_position_X": 875.64307,
+      "slider_value": "F"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 907.807,
+      "cursor_y": 722.83386,
+      "slider_position_X": 907.807,
+      "slider_value": "F"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 938.38947,
+      "cursor_y": 721.5636,
+      "slider_position_X": 907.807,
+      "slider_value": "F"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 938.38947,
+      "cursor_y": 721.5636,
+      "slider_position_X": 938.38947,
+      "slider_value": "F"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 953.73926,
+      "cursor_y": 719.9738,
+      "slider_position_X": 938.38947,
+      "slider_value": "G"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 953.73926,
+      "cursor_y": 719.9738,
+      "slider_position_X": 953.73926,
+      "slider_value": "G"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 970.4635,
+      "cursor_y": 718.4945,
+      "slider_position_X": 953.73926,
+      "slider_value": "G"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 970.4635,
+      "cursor_y": 718.4945,
+      "slider_position_X": 970.4635,
+      "slider_value": "G"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 988.40704,
+      "cursor_y": 717.44275,
+      "slider_position_X": 970.4635,
+      "slider_value": "H"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 988.40704,
+      "cursor_y": 717.44275,
+      "slider_position_X": 988.40704,
+      "slider_value": "H"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1004.00916,
+      "cursor_y": 715.94183,
+      "slider_position_X": 988.40704,
+      "slider_value": "H"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1004.00916,
+      "cursor_y": 715.94183,
+      "slider_position_X": 1004.00916,
+      "slider_value": "H"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1017.5148,
+      "cursor_y": 714.0847,
+      "slider_position_X": 1004.00916,
+      "slider_value": "H"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1017.5148,
+      "cursor_y": 714.0847,
+      "slider_position_X": 1017.5148,
+      "slider_value": "H"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1029.6326,
+      "cursor_y": 711.90356,
+      "slider_position_X": 1017.5148,
+      "slider_value": "H"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1029.6326,
+      "cursor_y": 711.90356,
+      "slider_position_X": 1029.6326,
+      "slider_value": "H"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1040.9512,
+      "cursor_y": 710.10645,
+      "slider_position_X": 1029.6326,
+      "slider_value": "I"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1040.9512,
+      "cursor_y": 710.10645,
+      "slider_position_X": 1040.9512,
+      "slider_value": "I"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1051.1559,
+      "cursor_y": 708.9264,
+      "slider_position_X": 1040.9512,
+      "slider_value": "I"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1051.1559,
+      "cursor_y": 708.9264,
+      "slider_position_X": 1051.1559,
+      "slider_value": "I"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1059.0566,
+      "cursor_y": 707.89984,
+      "slider_position_X": 1051.1559,
+      "slider_value": "I"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1059.0566,
+      "cursor_y": 707.89984,
+      "slider_position_X": 1059.0566,
+      "slider_value": "I"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1065.5248,
+      "cursor_y": 707.12085,
+      "slider_position_X": 1059.0566,
+      "slider_value": "I"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1065.5248,
+      "cursor_y": 707.12085,
+      "slider_position_X": 1065.5248,
+      "slider_value": "I"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1070.9623,
+      "cursor_y": 706.34814,
+      "slider_position_X": 1065.5248,
+      "slider_value": "I"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1070.9623,
+      "cursor_y": 706.34814,
+      "slider_position_X": 1070.9623,
+      "slider_value": "I"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1075.7888,
+      "cursor_y": 705.5169,
+      "slider_position_X": 1070.9623,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1075.7888,
+      "cursor_y": 705.5169,
+      "slider_position_X": 1075.7888,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1079.9868,
+      "cursor_y": 704.6604,
+      "slider_position_X": 1075.7888,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1079.9868,
+      "cursor_y": 704.6604,
+      "slider_position_X": 1079.9868,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1083.8589,
+      "cursor_y": 703.8273,
+      "slider_position_X": 1079.9868,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1083.8589,
+      "cursor_y": 703.8273,
+      "slider_position_X": 1083.8589,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1083.8589,
+      "cursor_y": 703.8273,
+      "slider_position_X": 1083.8589,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1083.8589,
+      "cursor_y": 703.8273,
+      "slider_position_X": 1083.8589,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1089.9667,
+      "cursor_y": 702.6004,
+      "slider_position_X": 1083.8589,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1089.9667,
+      "cursor_y": 702.6004,
+      "slider_position_X": 1089.9667,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.4131,
+      "cursor_y": 702.154,
+      "slider_position_X": 1089.9667,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.4131,
+      "cursor_y": 702.154,
+      "slider_position_X": 1092.4131,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1094.5215,
+      "cursor_y": 701.8256,
+      "slider_position_X": 1092.4131,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1094.5215,
+      "cursor_y": 701.8256,
+      "slider_position_X": 1094.5215,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1096.3032,
+      "cursor_y": 701.6286,
+      "slider_position_X": 1094.5215,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1096.3032,
+      "cursor_y": 701.6286,
+      "slider_position_X": 1096.3032,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1097.6311,
+      "cursor_y": 701.5356,
+      "slider_position_X": 1096.3032,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1097.6311,
+      "cursor_y": 701.5356,
+      "slider_position_X": 1097.6311,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1098.573,
+      "cursor_y": 701.5119,
+      "slider_position_X": 1097.6311,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1098.573,
+      "cursor_y": 701.5119,
+      "slider_position_X": 1098.573,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.2345,
+      "cursor_y": 701.5297,
+      "slider_position_X": 1098.573,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.2345,
+      "cursor_y": 701.5297,
+      "slider_position_X": 1099.2345,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.7188,
+      "cursor_y": 701.5785,
+      "slider_position_X": 1099.2345,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.7188,
+      "cursor_y": 701.5785,
+      "slider_position_X": 1099.7188,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.9137,
+      "cursor_y": 701.61316,
+      "slider_position_X": 1099.7188,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.9137,
+      "cursor_y": 701.61316,
+      "slider_position_X": 1099.9137,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.2136,
+      "cursor_y": 701.70013,
+      "slider_position_X": 1099.9137,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.3359,
+      "cursor_y": 701.7505,
+      "slider_position_X": 1100.2136,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.4373,
+      "cursor_y": 701.8033,
+      "slider_position_X": 1100.2136,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.4373,
+      "cursor_y": 701.8033,
+      "slider_position_X": 1100.4373,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.5902,
+      "cursor_y": 701.9169,
+      "slider_position_X": 1100.4373,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.5902,
+      "cursor_y": 701.9169,
+      "slider_position_X": 1100.5902,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.661,
+      "cursor_y": 702.0397,
+      "slider_position_X": 1100.5902,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.661,
+      "cursor_y": 702.0397,
+      "slider_position_X": 1100.661,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.6392,
+      "cursor_y": 702.163,
+      "slider_position_X": 1100.661,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.6392,
+      "cursor_y": 702.163,
+      "slider_position_X": 1100.6392,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.5437,
+      "cursor_y": 702.2841,
+      "slider_position_X": 1100.6392,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.5437,
+      "cursor_y": 702.2841,
+      "slider_position_X": 1100.5437,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.3889,
+      "cursor_y": 702.40204,
+      "slider_position_X": 1100.5437,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.3889,
+      "cursor_y": 702.40204,
+      "slider_position_X": 1100.3889,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1100.1836,
+      "cursor_y": 702.5208,
+      "slider_position_X": 1100.3889,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1100.1836,
+      "cursor_y": 702.5208,
+      "slider_position_X": 1100.1836,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.9288,
+      "cursor_y": 702.6395,
+      "slider_position_X": 1100.1836,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.9288,
+      "cursor_y": 702.6395,
+      "slider_position_X": 1099.9288,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.6426,
+      "cursor_y": 702.7538,
+      "slider_position_X": 1099.9288,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.6426,
+      "cursor_y": 702.7538,
+      "slider_position_X": 1099.6426,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1099.3069,
+      "cursor_y": 702.8585,
+      "slider_position_X": 1099.6426,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1099.3069,
+      "cursor_y": 702.8585,
+      "slider_position_X": 1099.3069,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1098.7069,
+      "cursor_y": 703.011,
+      "slider_position_X": 1099.3069,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1098.7069,
+      "cursor_y": 703.011,
+      "slider_position_X": 1098.7069,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1098.2881,
+      "cursor_y": 703.11145,
+      "slider_position_X": 1098.7069,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1098.2881,
+      "cursor_y": 703.11145,
+      "slider_position_X": 1098.2881,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1097.8704,
+      "cursor_y": 703.20996,
+      "slider_position_X": 1098.2881,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1097.8704,
+      "cursor_y": 703.20996,
+      "slider_position_X": 1097.8704,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1097.4701,
+      "cursor_y": 703.30316,
+      "slider_position_X": 1097.8704,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1097.4701,
+      "cursor_y": 703.30316,
+      "slider_position_X": 1097.4701,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1097.0912,
+      "cursor_y": 703.39136,
+      "slider_position_X": 1097.4701,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1097.0912,
+      "cursor_y": 703.39136,
+      "slider_position_X": 1097.0912,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1096.7341,
+      "cursor_y": 703.4751,
+      "slider_position_X": 1097.0912,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1096.7341,
+      "cursor_y": 703.4751,
+      "slider_position_X": 1096.7341,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1096.3962,
+      "cursor_y": 703.55554,
+      "slider_position_X": 1096.7341,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1096.3962,
+      "cursor_y": 703.55554,
+      "slider_position_X": 1096.3962,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1095.9115,
+      "cursor_y": 703.6762,
+      "slider_position_X": 1096.3962,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1095.9115,
+      "cursor_y": 703.6762,
+      "slider_position_X": 1095.9115,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1095.6011,
+      "cursor_y": 703.75775,
+      "slider_position_X": 1095.9115,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1095.6011,
+      "cursor_y": 703.75775,
+      "slider_position_X": 1095.6011,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1095.3019,
+      "cursor_y": 703.84143,
+      "slider_position_X": 1095.6011,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1095.3019,
+      "cursor_y": 703.84143,
+      "slider_position_X": 1095.3019,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1095.0146,
+      "cursor_y": 703.92834,
+      "slider_position_X": 1095.3019,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1095.0146,
+      "cursor_y": 703.92834,
+      "slider_position_X": 1095.0146,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1094.7322,
+      "cursor_y": 704.01697,
+      "slider_position_X": 1095.0146,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1094.7322,
+      "cursor_y": 704.01697,
+      "slider_position_X": 1094.7322,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1094.459,
+      "cursor_y": 704.104,
+      "slider_position_X": 1094.7322,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1094.459,
+      "cursor_y": 704.104,
+      "slider_position_X": 1094.459,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1094.1954,
+      "cursor_y": 704.188,
+      "slider_position_X": 1094.459,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1094.1954,
+      "cursor_y": 704.188,
+      "slider_position_X": 1094.1954,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1093.8263,
+      "cursor_y": 704.3064,
+      "slider_position_X": 1094.1954,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1093.8263,
+      "cursor_y": 704.3064,
+      "slider_position_X": 1093.8263,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1093.3949,
+      "cursor_y": 704.4452,
+      "slider_position_X": 1093.8263,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1093.3949,
+      "cursor_y": 704.4452,
+      "slider_position_X": 1093.3949,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1093.1143,
+      "cursor_y": 704.5351,
+      "slider_position_X": 1093.3949,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1093.1143,
+      "cursor_y": 704.5351,
+      "slider_position_X": 1093.1143,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.936,
+      "cursor_y": 704.59216,
+      "slider_position_X": 1093.1143,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.936,
+      "cursor_y": 704.59216,
+      "slider_position_X": 1092.936,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.8252,
+      "cursor_y": 704.6288,
+      "slider_position_X": 1092.936,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.8252,
+      "cursor_y": 704.6288,
+      "slider_position_X": 1092.8252,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.6779,
+      "cursor_y": 704.68005,
+      "slider_position_X": 1092.8252,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.6779,
+      "cursor_y": 704.68005,
+      "slider_position_X": 1092.6779,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.5867,
+      "cursor_y": 704.7136,
+      "slider_position_X": 1092.6779,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.5867,
+      "cursor_y": 704.7136,
+      "slider_position_X": 1092.5867,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.4962,
+      "cursor_y": 704.7483,
+      "slider_position_X": 1092.5867,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.4962,
+      "cursor_y": 704.7483,
+      "slider_position_X": 1092.4962,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.4072,
+      "cursor_y": 704.785,
+      "slider_position_X": 1092.4962,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.4072,
+      "cursor_y": 704.785,
+      "slider_position_X": 1092.4072,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.3191,
+      "cursor_y": 704.8239,
+      "slider_position_X": 1092.4072,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.3191,
+      "cursor_y": 704.8239,
+      "slider_position_X": 1092.3191,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.2339,
+      "cursor_y": 704.86237,
+      "slider_position_X": 1092.3191,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.2339,
+      "cursor_y": 704.86237,
+      "slider_position_X": 1092.2339,
+      "slider_value": "J"
+    },
+    {
+      "activity": "drawCalled",
+      "state": "DwellDetected",
+      "cursor_X": 1092.1503,
+      "cursor_y": 704.8999,
+      "slider_position_X": 1092.2339,
+      "slider_value": "J"
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "DwellDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1092.1503,
+      "cursor_y": 704.8999,
+      "slider_position_X": 1092.1503,
+      "slider_value": "J"
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "DwellDetected",
+      "message": "Block 2 complete",
+      "cursor_X": 1092.1503,
+      "cursor_y": 704.8999,
+      "slider_position_X": 1092.1503,
+      "slider_value": "J"
+    }
+  ]
+}

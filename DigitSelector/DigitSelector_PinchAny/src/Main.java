@@ -28,6 +28,8 @@ public class Main extends PApplet {
     float pinchCoordX;
     float pinchCoordY;
     float lastCursorX;
+    float sliderState;
+    boolean unPinched = false;
 
     enum State {
         NoHands,
@@ -47,7 +49,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(1);
+        fullScreen(2);
     }
 
     @Override
@@ -88,6 +90,7 @@ public class Main extends PApplet {
         ellipseMode(CENTER);
         rectMode(CENTER);
         textAlign(CENTER);
+        //sliderState = slider.startX;
 
 
     }
@@ -150,8 +153,8 @@ public class Main extends PApplet {
                     logData.addFrame(new Frame(FrameCategory.StateTransition, state, "Transitioning from states NoPinchDetected to PinchDetected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     //addLogAction(state, "Transitioning from states NoPinchDetected to PinchDetected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
                     pinchCoordX = cursor.x;
-                    println("pinch: " + pinchCoordX);
-                    println("slider: " + slider.circle.xCoor);
+//                    println("pinch: " + pinchCoordX);
+//                    println("slider: " + slider.circle.xCoor);
                     pinchCoordY = cursor.y;
                     lastCursorX = cursor.x;
                     state = State.PinchDetected;
@@ -178,22 +181,39 @@ public class Main extends PApplet {
                     logData.addFrame(new Frame(FrameCategory.gestureNoLongerDetected, state, "Gesture no longer detected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     //addLogAction(state, "Transitioning from states PinchDetected to NoPinchDetected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
                     state = State.NoPinchDetected;
+                    unPinched = true;
+                    sliderState = slider.circle.xCoor;
+                    println("set sliderstate: " + sliderState);
+
+
                 }
 
+
+                if(unPinched){
+                    println("re setting slider pos: " + sliderState);
+                    println("loc: " + slider.circle.xCoor);
+                    slider.circle.xCoor = sliderState;
+                    unPinched = false;
+                }else{
+                    slider.circle.xCoor = Math.abs((cursor.x - pinchCoordX) );
+                }
+
+                //slider.circle.xCoor = Math.abs((cursor.x - pinchCoordX) );
                 slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
-                println("cursor: " + cursor.x);
 
-                if (lastCursorX < cursor.x){ //right
-                    println("moving right");
-                    slider.circle.xCoor += (cursor.x - pinchCoordX);
-                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
-                }else{//left
-                    println("moving left");
-                    slider.circle.xCoor -= Math.abs(cursor.x - pinchCoordX);
-                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
-                }
+//                if (lastCursorX < cursor.x){ //right
+//                    println("moving right");
+//                    slider.circle.xCoor = Math.abs(sliderState +(cursor.x - pinchCoordX) );
+//                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
+//
+//                }else{//left
+//                    println("moving left");
+//                    slider.circle.xCoor = Math.abs(sliderState +(cursor.x - pinchCoordX));
+//                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
+//
+//                }
 
 
                 slider.circle.colour(0, 68, 255);
@@ -243,6 +263,7 @@ public class Main extends PApplet {
                     cursor.isPinchingOver = false;
                     state = State.NoHands;
                     slider.circle.xCoor = slider.startX;
+                    sliderState = slider.startX;
                     block++;
                     loggingData();
                 }else{
