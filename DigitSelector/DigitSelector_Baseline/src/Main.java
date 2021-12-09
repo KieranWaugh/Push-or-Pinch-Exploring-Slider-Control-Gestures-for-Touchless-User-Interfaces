@@ -77,7 +77,7 @@ public class Main extends PApplet {
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
-        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 1)); // 1 for baseline
+        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]))); // + 0 for baseline
         println(digits);
 
         // FOR LOGGING /////////////////////

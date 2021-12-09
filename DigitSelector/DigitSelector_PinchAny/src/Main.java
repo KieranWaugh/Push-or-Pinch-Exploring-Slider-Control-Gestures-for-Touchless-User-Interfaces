@@ -78,7 +78,7 @@ public class Main extends PApplet {
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
-        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0])));
+        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]+3))); // +3 for 3rd gesture type
         println(digits);
 
         // FOR LOGGING /////////////////////
@@ -90,7 +90,7 @@ public class Main extends PApplet {
         ellipseMode(CENTER);
         rectMode(CENTER);
         textAlign(CENTER);
-        //sliderState = slider.startX;
+        sliderState = slider.startX;
 
 
     }
@@ -176,10 +176,9 @@ public class Main extends PApplet {
 
 
                 if (!cursor.isPinchingTest(leap)){
-                    //addLogAction(state, "Pinch not detected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
+
                     logData.addFrame(new Frame(FrameCategory.StateTransition, state, "Transitioning from states PinchDetected to NoPinchDetected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     logData.addFrame(new Frame(FrameCategory.gestureNoLongerDetected, state, "Gesture no longer detected", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-                    //addLogAction(state, "Transitioning from states PinchDetected to NoPinchDetected", new Data(Data.dataTypes.PinchDetection, cursor.pinchStrength));
                     state = State.NoPinchDetected;
                     unPinched = true;
                     sliderState = slider.circle.xCoor;
@@ -195,54 +194,29 @@ public class Main extends PApplet {
                     slider.circle.xCoor = sliderState;
                     unPinched = false;
                 }else{
-                    slider.circle.xCoor = Math.abs((cursor.x - pinchCoordX) );
+                    if (lastCursorX < cursor.x){ //right
+                        println("moving right");
+                        slider.circle.xCoor = sliderState + Math.abs((cursor.x - pinchCoordX) );
+                        slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
+
+                    }else{//left
+                        println("moving left");
+                        slider.circle.xCoor = sliderState - Math.abs((pinchCoordX - cursor.x));
+                        slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
+
+                    }
                 }
 
-                //slider.circle.xCoor = Math.abs((cursor.x - pinchCoordX) );
                 slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
 
 
-//                if (lastCursorX < cursor.x){ //right
-//                    println("moving right");
-//                    slider.circle.xCoor = Math.abs(sliderState +(cursor.x - pinchCoordX) );
-//                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
-//
-//                }else{//left
-//                    println("moving left");
-//                    slider.circle.xCoor = Math.abs(sliderState +(cursor.x - pinchCoordX));
-//                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
-//
-//                }
+
 
 
                 slider.circle.colour(0, 68, 255);
                 cursor.update(leap);
 
-
-//                if (slider.overCircle(cursor, slider.circle.xCoor, slider.circle.yCoor, 75) ||  cursor.isPinchingOver){
-//                    cursor.isPinchingOver = true;
-//                    slider.circle.xCoor = cursor.x;
-//                    slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
-//
-//                    slider.circle.colour(0, 68, 255);
-//                    cursor.update(leap);
-//
-//                    if((slider.overCircle(cursor, slider.circle.xCoor, slider.circle.yCoor, 75))){
-//                        //addLogAction(state, "Pinch detected on slider", new Data(Data.dataTypes.SliderMoved, cursor.x, slider.sliderValue, slider.circle.xCoor));
-//                        logData.addFrame(new Frame(FrameCategory.sliderMoved, state, "Gesture detected on slider", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-//                    }else if(cursor.isPinchingOver){
-//                        logData.addFrame(new Frame(FrameCategory.sliderMoved, state, "Gesture continued away from slider", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-//                        //addLogAction(state, "Cursor moved from slider but continued pinch", new Data(Data.dataTypes.SliderMoved, cursor.x, cursor.y, slider.sliderValue, slider.circle.xCoor));
-//                    }
-//
-//
-//                }else{
-//                    slider.circle.display(255, 0, 0);
-//                    logData.addFrame(new Frame(FrameCategory.gestureDetected, state, "Gesture detected not on slider", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-//                    cursor.isPinchingOver = false;
-//                    cursor.update(leap);
-//                }
 
 
         }
@@ -251,7 +225,7 @@ public class Main extends PApplet {
 
     @Override
     public void keyPressed(){
-        if(key == 0x20){
+        if(key == TAB){
             try {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 

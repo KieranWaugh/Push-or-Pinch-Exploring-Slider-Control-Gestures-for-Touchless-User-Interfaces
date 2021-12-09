@@ -40,8 +40,7 @@ public class Slider {
                 sectionMarkers[i] = new Line(sketch, sectionsArray[i], sectionsArray[i], 700, 720);
             }
 
-        }
-
+        }   
 
         line = new Line(sketch, startX, endX, startY, endY);
         circle = new Circle(sketch, startX, startY, 75, 75);

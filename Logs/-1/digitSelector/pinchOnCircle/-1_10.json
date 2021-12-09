@@ -2,16 +2,16 @@
   "PID": -1,
   "gesture": "pinchOnCircle",
   "task": "digitSelector",
-  "target": "Z",
+  "target": 9,
   "block": 0,
-  "startTime": 85988,
-  "endTime": 90028,
+  "startTime": 31455,
+  "endTime": 34562,
   "frames": [
     {
       "activity": "drawCalled",
       "state": "NoHands",
-      "cursor_X": 1256.3478,
-      "cursor_y": 726.484,
+      "cursor_X": 1463.4573,
+      "cursor_y": 736.9741,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -19,496 +19,360 @@
       "activity": "StateTransition",
       "state": "NoHands",
       "message": "Transitioning from states NoHands to NoPinchDetected",
-      "cursor_X": 1256.3478,
-      "cursor_y": 726.484,
+      "cursor_X": 1463.4573,
+      "cursor_y": 736.9741,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.3297,
-      "cursor_y": 726.5596,
+      "cursor_X": 1463.2876,
+      "cursor_y": 736.7215,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.3922,
-      "cursor_y": 726.7333,
+      "cursor_X": 1462.874,
+      "cursor_y": 736.3843,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.4404,
-      "cursor_y": 726.80927,
+      "cursor_X": 1462.5017,
+      "cursor_y": 736.1707,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.6514,
-      "cursor_y": 727.07935,
+      "cursor_X": 1461.0369,
+      "cursor_y": 735.5472,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.8164,
-      "cursor_y": 727.28894,
+      "cursor_X": 1459.7332,
+      "cursor_y": 735.09357,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.9825,
-      "cursor_y": 727.506,
+      "cursor_X": 1454.4333,
+      "cursor_y": 733.7097,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1257.1282,
-      "cursor_y": 727.7095,
+      "cursor_X": 1449.4397,
+      "cursor_y": 732.6821,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1257.2377,
-      "cursor_y": 727.88104,
+      "cursor_X": 1431.2098,
+      "cursor_y": 729.8022,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1257.3217,
-      "cursor_y": 728.04236,
+      "cursor_X": 1416.3218,
+      "cursor_y": 728.01807,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1257.369,
-      "cursor_y": 728.2227,
+      "cursor_X": 1275.1273,
+      "cursor_y": 721.88666,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1257.251,
-      "cursor_y": 728.6392,
+      "cursor_X": 1168.3364,
+      "cursor_y": 724.0277,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1256.9817,
-      "cursor_y": 728.8922,
+      "cursor_X": 1074.7716,
+      "cursor_y": 726.8116,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1254.9789,
-      "cursor_y": 729.7219,
+      "cursor_X": 1018.7197,
+      "cursor_y": 726.7356,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1252.234,
-      "cursor_y": 730.3765,
+      "cursor_X": 989.04895,
+      "cursor_y": 726.9507,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1246.933,
-      "cursor_y": 731.2451,
+      "cursor_X": 939.051,
+      "cursor_y": 725.22845,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1228.4225,
-      "cursor_y": 732.69666,
+      "cursor_X": 895.2158,
+      "cursor_y": 724.45667,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1207.1571,
-      "cursor_y": 733.38574,
+      "cursor_X": 877.4409,
+      "cursor_y": 723.9257,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1178.6698,
-      "cursor_y": 733.6914,
+      "cursor_X": 846.4258,
+      "cursor_y": 724.6247,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1143.5862,
-      "cursor_y": 733.9355,
+      "cursor_X": 832.35974,
+      "cursor_y": 725.49786,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1105.692,
-      "cursor_y": 733.2161,
+      "cursor_X": 804.2568,
+      "cursor_y": 727.3168,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1067.8477,
-      "cursor_y": 731.9399,
+      "cursor_X": 776.67163,
+      "cursor_y": 727.0072,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1027.9814,
-      "cursor_y": 729.51654,
+      "cursor_X": 763.3733,
+      "cursor_y": 725.50995,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 993.5994,
-      "cursor_y": 726.9671,
+      "cursor_X": 742.1476,
+      "cursor_y": 724.50555,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 960.6769,
-      "cursor_y": 725.5606,
+      "cursor_X": 734.5008,
+      "cursor_y": 724.0517,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 942.53284,
-      "cursor_y": 724.0296,
+      "cursor_X": 722.0112,
+      "cursor_y": 723.3615,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 868.28705,
-      "cursor_y": 719.0869,
+      "cursor_X": 707.8802,
+      "cursor_y": 722.6759,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 845.8421,
-      "cursor_y": 717.30817,
+      "cursor_X": 702.61316,
+      "cursor_y": 722.5846,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 824.1965,
-      "cursor_y": 716.072,
+      "cursor_X": 695.3026,
+      "cursor_y": 722.7644,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 798.4758,
-      "cursor_y": 714.5939,
+      "cursor_X": 693.0185,
+      "cursor_y": 722.9694,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 781.6593,
-      "cursor_y": 714.20074,
+      "cursor_X": 687.7156,
+      "cursor_y": 723.40845,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 770.5814,
-      "cursor_y": 714.80835,
+      "cursor_X": 685.159,
+      "cursor_y": 723.5715,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 757.37164,
-      "cursor_y": 714.90314,
+      "cursor_X": 681.174,
+      "cursor_y": 723.8554,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 745.3297,
-      "cursor_y": 714.7067,
+      "cursor_X": 681.174,
+      "cursor_y": 723.8554,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 734.8029,
-      "cursor_y": 714.8189,
+      "cursor_X": 675.9161,
+      "cursor_y": 724.7278,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 726.8237,
-      "cursor_y": 714.9044,
+      "cursor_X": 674.8249,
+      "cursor_y": 724.9378,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 720.15106,
-      "cursor_y": 714.9072,
+      "cursor_X": 670.8051,
+      "cursor_y": 725.8733,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 714.78766,
-      "cursor_y": 714.7637,
+      "cursor_X": 668.828,
+      "cursor_y": 726.37335,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 709.48364,
-      "cursor_y": 714.2577,
+      "cursor_X": 664.94055,
+      "cursor_y": 727.30365,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 707.0853,
-      "cursor_y": 713.8948,
+      "cursor_X": 662.57007,
+      "cursor_y": 727.8571,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 700.5702,
-      "cursor_y": 713.2328,
+      "cursor_X": 656.96277,
+      "cursor_y": 729.06824,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 698.79443,
-      "cursor_y": 713.18146,
+      "cursor_X": 650.34985,
+      "cursor_y": 730.08923,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 695.9549,
-      "cursor_y": 713.21936,
+      "cursor_X": 646.37524,
+      "cursor_y": 730.6201,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 693.5828,
-      "cursor_y": 713.3281,
+      "cursor_X": 638.62024,
+      "cursor_y": 731.47955,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 689.5569,
-      "cursor_y": 713.1301,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 686.99316,
-      "cursor_y": 713.0605,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 684.50214,
-      "cursor_y": 713.14417,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 681.65405,
-      "cursor_y": 713.2202,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 679.111,
-      "cursor_y": 713.60614,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 676.7283,
-      "cursor_y": 714.12103,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 674.483,
-      "cursor_y": 714.70526,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 672.0962,
-      "cursor_y": 715.33844,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 669.9081,
-      "cursor_y": 716.1789,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 667.58966,
-      "cursor_y": 717.0554,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 664.67865,
-      "cursor_y": 717.8511,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 660.6867,
-      "cursor_y": 718.5564,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 653.9049,
-      "cursor_y": 719.48535,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 651.5543,
-      "cursor_y": 719.75555,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 647.00775,
-      "cursor_y": 720.3497,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 642.6013,
-      "cursor_y": 720.9063,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 638.16095,
-      "cursor_y": 721.44836,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 633.53876,
-      "cursor_y": 721.8563,
+      "cursor_X": 631.82104,
+      "cursor_y": 732.0682,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -516,16 +380,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 633.53876,
-      "cursor_y": 721.8563,
+      "cursor_X": 631.82104,
+      "cursor_y": 732.0682,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 626.5496,
-      "cursor_y": 722.28937,
+      "cursor_X": 628.9486,
+      "cursor_y": 732.2889,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -533,16 +397,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 626.5496,
-      "cursor_y": 722.28937,
+      "cursor_X": 628.9486,
+      "cursor_y": 732.2889,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 622.3001,
-      "cursor_y": 722.5334,
+      "cursor_X": 624.02625,
+      "cursor_y": 732.5862,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -550,16 +414,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 622.3001,
-      "cursor_y": 722.5334,
+      "cursor_X": 624.02625,
+      "cursor_y": 732.5862,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 618.2716,
-      "cursor_y": 722.7607,
+      "cursor_X": 620.147,
+      "cursor_y": 732.8265,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -567,16 +431,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 618.2716,
-      "cursor_y": 722.7607,
+      "cursor_X": 620.147,
+      "cursor_y": 732.8265,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 614.69775,
-      "cursor_y": 722.98834,
+      "cursor_X": 618.4923,
+      "cursor_y": 732.9616,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -584,16 +448,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 614.69775,
-      "cursor_y": 722.98834,
+      "cursor_X": 618.4923,
+      "cursor_y": 732.9616,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 611.61554,
-      "cursor_y": 723.1913,
+      "cursor_X": 615.49243,
+      "cursor_y": 733.1268,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -601,16 +465,16 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 611.61554,
-      "cursor_y": 723.1913,
+      "cursor_X": 615.49243,
+      "cursor_y": 733.1268,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 604.19855,
-      "cursor_y": 723.73584,
+      "cursor_X": 613.9579,
+      "cursor_y": 733.1252,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -618,16 +482,220 @@
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 604.19855,
-      "cursor_y": 723.73584,
+      "cursor_X": 613.9579,
+      "cursor_y": 733.1252,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 600.81604,
-      "cursor_y": 723.9325,
+      "cursor_X": 610.97144,
+      "cursor_y": 732.9528,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 610.97144,
+      "cursor_y": 732.9528,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 609.6821,
+      "cursor_y": 732.8443,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 609.6821,
+      "cursor_y": 732.8443,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 607.64594,
+      "cursor_y": 732.6229,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 607.64594,
+      "cursor_y": 732.6229,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 605.6907,
+      "cursor_y": 732.3203,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 605.6907,
+      "cursor_y": 732.3203,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 604.7246,
+      "cursor_y": 732.1631,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 604.7246,
+      "cursor_y": 732.1631,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 602.8366,
+      "cursor_y": 731.8504,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 602.8366,
+      "cursor_y": 731.8504,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 601.93304,
+      "cursor_y": 731.69635,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 601.93304,
+      "cursor_y": 731.69635,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 600.2814,
+      "cursor_y": 731.4365,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 600.2814,
+      "cursor_y": 731.4365,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 599.486,
+      "cursor_y": 731.32355,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 599.486,
+      "cursor_y": 731.32355,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 598.1342,
+      "cursor_y": 731.206,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 598.1342,
+      "cursor_y": 731.206,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 597.4976,
+      "cursor_y": 731.2255,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 597.4976,
+      "cursor_y": 731.2255,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 597.312,
+      "cursor_y": 731.26526,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 597.312,
+      "cursor_y": 731.26526,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 596.9736,
+      "cursor_y": 731.39636,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -635,8 +703,8 @@
       "activity": "gestureDetected",
       "state": "NoPinchDetected",
       "message": "Gesture detected",
-      "cursor_X": 600.81604,
-      "cursor_y": 723.9325,
+      "cursor_X": 596.9736,
+      "cursor_y": 731.39636,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -644,8 +712,8 @@
       "activity": "StateTransition",
       "state": "NoPinchDetected",
       "message": "Transitioning from states NoPinchDetected to PinchDetected",
-      "cursor_X": 600.81604,
-      "cursor_y": 723.9325,
+      "cursor_X": 596.9736,
+      "cursor_y": 731.39636,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -653,16 +721,16 @@
       "activity": "cursorOverSlider",
       "state": "PinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 600.81604,
-      "cursor_y": 723.9325,
+      "cursor_X": 596.9736,
+      "cursor_y": 731.39636,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 598.5526,
-      "cursor_y": 724.00397,
+      "cursor_X": 596.78894,
+      "cursor_y": 731.4925,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -670,16 +738,16 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 598.5526,
-      "cursor_y": 724.00397,
+      "cursor_X": 596.78894,
+      "cursor_y": 731.4925,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 597.5308,
-      "cursor_y": 723.997,
+      "cursor_X": 595.08496,
+      "cursor_y": 732.546,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -687,16 +755,16 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 597.5308,
-      "cursor_y": 723.997,
+      "cursor_X": 595.08496,
+      "cursor_y": 732.546,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 596.80414,
-      "cursor_y": 723.97107,
+      "cursor_X": 594.9907,
+      "cursor_y": 733.08203,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -704,16 +772,16 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 596.80414,
-      "cursor_y": 723.97107,
+      "cursor_X": 594.9907,
+      "cursor_y": 733.08203,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 596.10364,
-      "cursor_y": 723.91785,
+      "cursor_X": 595.8601,
+      "cursor_y": 733.4045,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -721,16 +789,16 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 596.10364,
-      "cursor_y": 723.91785,
+      "cursor_X": 595.8601,
+      "cursor_y": 733.4045,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 595.52826,
-      "cursor_y": 723.84314,
+      "cursor_X": 597.562,
+      "cursor_y": 733.6611,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -738,16 +806,16 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 595.52826,
-      "cursor_y": 723.84314,
+      "cursor_X": 597.562,
+      "cursor_y": 733.6611,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 595.02295,
-      "cursor_y": 723.7542,
+      "cursor_X": 600.46173,
+      "cursor_y": 733.9109,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
@@ -755,2366 +823,1448 @@
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 595.02295,
-      "cursor_y": 723.7542,
-      "slider_position_X": 600.0,
+      "cursor_X": 600.46173,
+      "cursor_y": 733.9109,
+      "slider_position_X": 600.46173,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 594.60077,
-      "cursor_y": 723.6558,
-      "slider_position_X": 600.0,
+      "cursor_X": 602.5733,
+      "cursor_y": 734.0042,
+      "slider_position_X": 600.46173,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 594.60077,
-      "cursor_y": 723.6558,
-      "slider_position_X": 600.0,
+      "cursor_X": 602.5733,
+      "cursor_y": 734.0042,
+      "slider_position_X": 602.5733,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 594.33844,
-      "cursor_y": 723.5757,
-      "slider_position_X": 600.0,
+      "cursor_X": 608.49316,
+      "cursor_y": 734.1248,
+      "slider_position_X": 602.5733,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 594.33844,
-      "cursor_y": 723.5757,
-      "slider_position_X": 600.0,
+      "cursor_X": 608.49316,
+      "cursor_y": 734.1248,
+      "slider_position_X": 608.49316,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 594.1188,
-      "cursor_y": 723.4787,
-      "slider_position_X": 600.0,
+      "cursor_X": 618.224,
+      "cursor_y": 734.25073,
+      "slider_position_X": 608.49316,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 594.1188,
-      "cursor_y": 723.4787,
-      "slider_position_X": 600.0,
+      "cursor_X": 618.224,
+      "cursor_y": 734.25073,
+      "slider_position_X": 618.224,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 593.9656,
-      "cursor_y": 723.3764,
-      "slider_position_X": 600.0,
+      "cursor_X": 625.2759,
+      "cursor_y": 734.3066,
+      "slider_position_X": 618.224,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 593.9656,
-      "cursor_y": 723.3764,
-      "slider_position_X": 600.0,
+      "cursor_X": 625.2759,
+      "cursor_y": 734.3066,
+      "slider_position_X": 625.2759,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 593.9017,
-      "cursor_y": 723.2834,
-      "slider_position_X": 600.0,
+      "cursor_X": 644.0056,
+      "cursor_y": 734.32635,
+      "slider_position_X": 625.2759,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 593.9017,
-      "cursor_y": 723.2834,
-      "slider_position_X": 600.0,
+      "cursor_X": 644.0056,
+      "cursor_y": 734.32635,
+      "slider_position_X": 644.0056,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 593.9813,
-      "cursor_y": 723.1771,
-      "slider_position_X": 600.0,
+      "cursor_X": 655.8607,
+      "cursor_y": 734.3635,
+      "slider_position_X": 644.0056,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 593.9813,
-      "cursor_y": 723.1771,
-      "slider_position_X": 600.0,
+      "cursor_X": 669.4441,
+      "cursor_y": 734.4056,
+      "slider_position_X": 655.8607,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 594.35913,
-      "cursor_y": 723.0627,
-      "slider_position_X": 600.0,
+      "cursor_X": 683.37683,
+      "cursor_y": 734.3983,
+      "slider_position_X": 655.8607,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 594.35913,
-      "cursor_y": 723.0627,
-      "slider_position_X": 600.0,
+      "cursor_X": 683.37683,
+      "cursor_y": 734.3983,
+      "slider_position_X": 683.37683,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 595.0515,
-      "cursor_y": 722.9459,
-      "slider_position_X": 600.0,
+      "cursor_X": 698.3613,
+      "cursor_y": 734.4942,
+      "slider_position_X": 683.37683,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 595.0515,
-      "cursor_y": 722.9459,
-      "slider_position_X": 600.0,
+      "cursor_X": 698.3613,
+      "cursor_y": 734.4942,
+      "slider_position_X": 698.3613,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 595.0515,
-      "cursor_y": 722.9459,
-      "slider_position_X": 600.0,
+      "cursor_X": 733.1405,
+      "cursor_y": 735.28064,
+      "slider_position_X": 698.3613,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 595.0515,
-      "cursor_y": 722.9459,
-      "slider_position_X": 600.0,
+      "cursor_X": 733.1405,
+      "cursor_y": 735.28064,
+      "slider_position_X": 733.1405,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 597.17847,
-      "cursor_y": 722.6443,
-      "slider_position_X": 600.0,
+      "cursor_X": 751.0154,
+      "cursor_y": 735.72815,
+      "slider_position_X": 733.1405,
       "slider_value": 0
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 597.17847,
-      "cursor_y": 722.6443,
-      "slider_position_X": 600.0,
+      "cursor_X": 751.0154,
+      "cursor_y": 735.72815,
+      "slider_position_X": 751.0154,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 598.33594,
-      "cursor_y": 722.5119,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 598.33594,
-      "cursor_y": 722.5119,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 599.71277,
-      "cursor_y": 722.38245,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 599.71277,
-      "cursor_y": 722.38245,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 601.37036,
-      "cursor_y": 722.2432,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 601.37036,
-      "cursor_y": 722.2432,
-      "slider_position_X": 601.37036,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 604.4697,
-      "cursor_y": 721.99963,
-      "slider_position_X": 601.37036,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 604.4697,
-      "cursor_y": 721.99963,
-      "slider_position_X": 604.4697,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 605.755,
-      "cursor_y": 721.90216,
-      "slider_position_X": 604.4697,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 607.20715,
-      "cursor_y": 721.7963,
-      "slider_position_X": 605.755,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 610.7004,
-      "cursor_y": 721.5532,
-      "slider_position_X": 605.755,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 610.7004,
-      "cursor_y": 721.5532,
-      "slider_position_X": 610.7004,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 615.11285,
-      "cursor_y": 721.29205,
-      "slider_position_X": 610.7004,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 615.11285,
-      "cursor_y": 721.29205,
-      "slider_position_X": 615.11285,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 620.61285,
-      "cursor_y": 721.0137,
-      "slider_position_X": 615.11285,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 620.61285,
-      "cursor_y": 721.0137,
-      "slider_position_X": 620.61285,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 627.3837,
-      "cursor_y": 720.6763,
-      "slider_position_X": 620.61285,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 627.3837,
-      "cursor_y": 720.6763,
-      "slider_position_X": 627.3837,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 636.1415,
-      "cursor_y": 720.2435,
-      "slider_position_X": 627.3837,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 636.1415,
-      "cursor_y": 720.2435,
-      "slider_position_X": 636.1415,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 652.77234,
-      "cursor_y": 719.2216,
-      "slider_position_X": 636.1415,
-      "slider_value": 0
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 652.77234,
-      "cursor_y": 719.2216,
-      "slider_position_X": 652.77234,
-      "slider_value": 0
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 667.3512,
-      "cursor_y": 718.6702,
-      "slider_position_X": 652.77234,
+      "cursor_X": 788.5951,
+      "cursor_y": 737.0603,
+      "slider_position_X": 751.0154,
       "slider_value": 1
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 667.3512,
-      "cursor_y": 718.6702,
-      "slider_position_X": 667.3512,
+      "cursor_X": 788.5951,
+      "cursor_y": 737.0603,
+      "slider_position_X": 788.5951,
       "slider_value": 1
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 684.98364,
-      "cursor_y": 718.02484,
-      "slider_position_X": 667.3512,
+      "cursor_X": 822.64703,
+      "cursor_y": 738.06824,
+      "slider_position_X": 788.5951,
       "slider_value": 1
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 684.98364,
-      "cursor_y": 718.02484,
-      "slider_position_X": 684.98364,
+      "cursor_X": 822.64703,
+      "cursor_y": 738.06824,
+      "slider_position_X": 822.64703,
       "slider_value": 1
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 703.9855,
-      "cursor_y": 717.34656,
-      "slider_position_X": 684.98364,
+      "cursor_X": 839.7644,
+      "cursor_y": 738.49506,
+      "slider_position_X": 822.64703,
       "slider_value": 1
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 703.9855,
-      "cursor_y": 717.34656,
-      "slider_position_X": 703.9855,
+      "cursor_X": 839.7644,
+      "cursor_y": 738.49506,
+      "slider_position_X": 839.7644,
       "slider_value": 1
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 723.1979,
-      "cursor_y": 716.44696,
-      "slider_position_X": 703.9855,
+      "cursor_X": 875.9378,
+      "cursor_y": 739.093,
+      "slider_position_X": 839.7644,
       "slider_value": 1
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 723.1979,
-      "cursor_y": 716.44696,
-      "slider_position_X": 723.1979,
+      "cursor_X": 875.9378,
+      "cursor_y": 739.093,
+      "slider_position_X": 875.9378,
       "slider_value": 1
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 744.3302,
-      "cursor_y": 715.74554,
-      "slider_position_X": 723.1979,
+      "cursor_X": 914.3096,
+      "cursor_y": 739.24207,
+      "slider_position_X": 875.9378,
       "slider_value": 2
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 744.3302,
-      "cursor_y": 715.74554,
-      "slider_position_X": 744.3302,
+      "cursor_X": 914.3096,
+      "cursor_y": 739.24207,
+      "slider_position_X": 914.3096,
       "slider_value": 2
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 766.92926,
-      "cursor_y": 715.5211,
-      "slider_position_X": 744.3302,
+      "cursor_X": 933.8754,
+      "cursor_y": 739.2535,
+      "slider_position_X": 914.3096,
       "slider_value": 2
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 766.92926,
-      "cursor_y": 715.5211,
-      "slider_position_X": 766.92926,
+      "cursor_X": 933.8754,
+      "cursor_y": 739.2535,
+      "slider_position_X": 933.8754,
       "slider_value": 2
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 801.6989,
-      "cursor_y": 715.93005,
-      "slider_position_X": 766.92926,
+      "cursor_X": 974.767,
+      "cursor_y": 739.73926,
+      "slider_position_X": 933.8754,
+      "slider_value": 2
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 974.767,
+      "cursor_y": 739.73926,
+      "slider_position_X": 974.767,
+      "slider_value": 2
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1015.36694,
+      "cursor_y": 740.8309,
+      "slider_position_X": 974.767,
+      "slider_value": 2
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1015.36694,
+      "cursor_y": 740.8309,
+      "slider_position_X": 1015.36694,
+      "slider_value": 2
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1036.5684,
+      "cursor_y": 741.17566,
+      "slider_position_X": 1015.36694,
       "slider_value": 3
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 801.6989,
-      "cursor_y": 715.93005,
-      "slider_position_X": 801.6989,
+      "cursor_X": 1036.5684,
+      "cursor_y": 741.17566,
+      "slider_position_X": 1036.5684,
       "slider_value": 3
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 822.34406,
-      "cursor_y": 716.0548,
-      "slider_position_X": 801.6989,
+      "cursor_X": 1076.0007,
+      "cursor_y": 739.5199,
+      "slider_position_X": 1036.5684,
       "slider_value": 3
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 822.34406,
-      "cursor_y": 716.0548,
-      "slider_position_X": 822.34406,
+      "cursor_X": 1076.0007,
+      "cursor_y": 739.5199,
+      "slider_position_X": 1076.0007,
       "slider_value": 3
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 842.4913,
-      "cursor_y": 716.2106,
-      "slider_position_X": 822.34406,
+      "cursor_X": 1096.3182,
+      "cursor_y": 738.6218,
+      "slider_position_X": 1076.0007,
+      "slider_value": 3
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1096.3182,
+      "cursor_y": 738.6218,
+      "slider_position_X": 1096.3182,
+      "slider_value": 3
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1136.491,
+      "cursor_y": 736.92535,
+      "slider_position_X": 1096.3182,
+      "slider_value": 3
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1136.491,
+      "cursor_y": 736.92535,
+      "slider_position_X": 1136.491,
+      "slider_value": 3
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1178.7539,
+      "cursor_y": 734.9476,
+      "slider_position_X": 1136.491,
+      "slider_value": 3
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1178.7539,
+      "cursor_y": 734.9476,
+      "slider_position_X": 1178.7539,
+      "slider_value": 3
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1226.1202,
+      "cursor_y": 734.7533,
+      "slider_position_X": 1178.7539,
       "slider_value": 4
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 842.4913,
-      "cursor_y": 716.2106,
-      "slider_position_X": 842.4913,
+      "cursor_X": 1226.1202,
+      "cursor_y": 734.7533,
+      "slider_position_X": 1226.1202,
       "slider_value": 4
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 863.95056,
-      "cursor_y": 716.52893,
-      "slider_position_X": 842.4913,
+      "cursor_X": 1249.5624,
+      "cursor_y": 735.11566,
+      "slider_position_X": 1226.1202,
       "slider_value": 4
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 863.95056,
-      "cursor_y": 716.52893,
-      "slider_position_X": 863.95056,
+      "cursor_X": 1249.5624,
+      "cursor_y": 735.11566,
+      "slider_position_X": 1249.5624,
       "slider_value": 4
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 887.33734,
-      "cursor_y": 716.6394,
-      "slider_position_X": 863.95056,
+      "cursor_X": 1295.9764,
+      "cursor_y": 736.4761,
+      "slider_position_X": 1249.5624,
+      "slider_value": 4
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1295.9764,
+      "cursor_y": 736.4761,
+      "slider_position_X": 1295.9764,
+      "slider_value": 4
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1318.746,
+      "cursor_y": 737.7489,
+      "slider_position_X": 1295.9764,
       "slider_value": 5
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 887.33734,
-      "cursor_y": 716.6394,
-      "slider_position_X": 887.33734,
+      "cursor_X": 1318.746,
+      "cursor_y": 737.7489,
+      "slider_position_X": 1318.746,
       "slider_value": 5
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 913.3325,
-      "cursor_y": 716.2361,
-      "slider_position_X": 887.33734,
+      "cursor_X": 1361.2144,
+      "cursor_y": 739.2467,
+      "slider_position_X": 1318.746,
       "slider_value": 5
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 913.3325,
-      "cursor_y": 716.2361,
-      "slider_position_X": 913.3325,
+      "cursor_X": 1361.2144,
+      "cursor_y": 739.2467,
+      "slider_position_X": 1361.2144,
       "slider_value": 5
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 944.77783,
-      "cursor_y": 716.589,
-      "slider_position_X": 913.3325,
+      "cursor_X": 1382.9261,
+      "cursor_y": 740.9645,
+      "slider_position_X": 1361.2144,
       "slider_value": 5
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 944.77783,
-      "cursor_y": 716.589,
-      "slider_position_X": 944.77783,
+      "cursor_X": 1404.3054,
+      "cursor_y": 742.7963,
+      "slider_position_X": 1382.9261,
       "slider_value": 5
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 977.95874,
-      "cursor_y": 715.83875,
-      "slider_position_X": 944.77783,
+      "cursor_X": 1423.3162,
+      "cursor_y": 744.2359,
+      "slider_position_X": 1382.9261,
+      "slider_value": 5
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1423.3162,
+      "cursor_y": 744.2359,
+      "slider_position_X": 1423.3162,
+      "slider_value": 5
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1457.3091,
+      "cursor_y": 747.3628,
+      "slider_position_X": 1423.3162,
       "slider_value": 6
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 977.95874,
-      "cursor_y": 715.83875,
-      "slider_position_X": 977.95874,
+      "cursor_X": 1457.3091,
+      "cursor_y": 747.3628,
+      "slider_position_X": 1457.3091,
       "slider_value": 6
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1009.1268,
-      "cursor_y": 713.1927,
-      "slider_position_X": 977.95874,
+      "cursor_X": 1490.2537,
+      "cursor_y": 748.88257,
+      "slider_position_X": 1457.3091,
+      "slider_value": 6
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1490.2537,
+      "cursor_y": 748.88257,
+      "slider_position_X": 1490.2537,
+      "slider_value": 6
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1505.9817,
+      "cursor_y": 749.5798,
+      "slider_position_X": 1490.2537,
+      "slider_value": 6
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1505.9817,
+      "cursor_y": 749.5798,
+      "slider_position_X": 1505.9817,
+      "slider_value": 6
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1536.2284,
+      "cursor_y": 750.46344,
+      "slider_position_X": 1505.9817,
+      "slider_value": 6
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1536.2284,
+      "cursor_y": 750.46344,
+      "slider_position_X": 1536.2284,
+      "slider_value": 6
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1551.1382,
+      "cursor_y": 750.85,
+      "slider_position_X": 1536.2284,
+      "slider_value": 6
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1551.1382,
+      "cursor_y": 750.85,
+      "slider_position_X": 1551.1382,
+      "slider_value": 6
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1566.2646,
+      "cursor_y": 751.7545,
+      "slider_position_X": 1551.1382,
+      "slider_value": 6
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1566.2646,
+      "cursor_y": 751.7545,
+      "slider_position_X": 1566.2646,
+      "slider_value": 6
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1615.8362,
+      "cursor_y": 753.6444,
+      "slider_position_X": 1566.2646,
       "slider_value": 7
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1009.1268,
-      "cursor_y": 713.1927,
-      "slider_position_X": 1009.1268,
+      "cursor_X": 1615.8362,
+      "cursor_y": 753.6444,
+      "slider_position_X": 1615.8362,
       "slider_value": 7
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1043.2533,
-      "cursor_y": 710.8625,
-      "slider_position_X": 1009.1268,
+      "cursor_X": 1626.1443,
+      "cursor_y": 754.6529,
+      "slider_position_X": 1615.8362,
       "slider_value": 7
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1043.2533,
-      "cursor_y": 710.8625,
-      "slider_position_X": 1043.2533,
+      "cursor_X": 1626.1443,
+      "cursor_y": 754.6529,
+      "slider_position_X": 1626.1443,
       "slider_value": 7
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1075.1674,
-      "cursor_y": 708.86835,
-      "slider_position_X": 1043.2533,
+      "cursor_X": 1652.0721,
+      "cursor_y": 754.7512,
+      "slider_position_X": 1626.1443,
+      "slider_value": 7
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1652.0721,
+      "cursor_y": 754.7512,
+      "slider_position_X": 1652.0721,
+      "slider_value": 7
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1666.6821,
+      "cursor_y": 755.0169,
+      "slider_position_X": 1652.0721,
+      "slider_value": 7
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1666.6821,
+      "cursor_y": 755.0169,
+      "slider_position_X": 1666.6821,
+      "slider_value": 7
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1694.2344,
+      "cursor_y": 755.5741,
+      "slider_position_X": 1666.6821,
+      "slider_value": 7
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1694.2344,
+      "cursor_y": 755.5741,
+      "slider_position_X": 1694.2344,
+      "slider_value": 7
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1706.8557,
+      "cursor_y": 755.45996,
+      "slider_position_X": 1694.2344,
       "slider_value": 8
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1075.1674,
-      "cursor_y": 708.86835,
-      "slider_position_X": 1075.1674,
+      "cursor_X": 1706.8557,
+      "cursor_y": 755.45996,
+      "slider_position_X": 1706.8557,
       "slider_value": 8
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1108.1161,
-      "cursor_y": 707.813,
-      "slider_position_X": 1075.1674,
+      "cursor_X": 1730.864,
+      "cursor_y": 755.73645,
+      "slider_position_X": 1706.8557,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1730.864,
+      "cursor_y": 755.73645,
+      "slider_position_X": 1730.864,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1752.343,
+      "cursor_y": 754.76416,
+      "slider_position_X": 1730.864,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1752.343,
+      "cursor_y": 754.76416,
+      "slider_position_X": 1752.343,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1762.3787,
+      "cursor_y": 754.2344,
+      "slider_position_X": 1752.343,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1762.3787,
+      "cursor_y": 754.2344,
+      "slider_position_X": 1762.3787,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1779.9271,
+      "cursor_y": 753.14307,
+      "slider_position_X": 1762.3787,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1779.9271,
+      "cursor_y": 753.14307,
+      "slider_position_X": 1779.9271,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1794.0251,
+      "cursor_y": 751.11304,
+      "slider_position_X": 1779.9271,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1794.0251,
+      "cursor_y": 751.11304,
+      "slider_position_X": 1794.0251,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1800.2317,
+      "cursor_y": 750.5956,
+      "slider_position_X": 1794.0251,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1800.2317,
+      "cursor_y": 750.5956,
+      "slider_position_X": 1800.2317,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1810.4756,
+      "cursor_y": 749.99884,
+      "slider_position_X": 1800.2317,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1810.4756,
+      "cursor_y": 749.99884,
+      "slider_position_X": 1810.4756,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1814.1188,
+      "cursor_y": 749.8989,
+      "slider_position_X": 1810.4756,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1814.1188,
+      "cursor_y": 749.8989,
+      "slider_position_X": 1814.1188,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1820.3403,
+      "cursor_y": 749.83936,
+      "slider_position_X": 1814.1188,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1820.3403,
+      "cursor_y": 749.83936,
+      "slider_position_X": 1820.3403,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1826.0823,
+      "cursor_y": 749.91437,
+      "slider_position_X": 1820.3403,
+      "slider_value": 8
+    },
+    {
+      "activity": "sliderMoved",
+      "state": "PinchDetected",
+      "message": "Gesture detected on slider",
+      "cursor_X": 1826.0823,
+      "cursor_y": 749.91437,
+      "slider_position_X": 1826.0823,
+      "slider_value": 8
+    },
+    {
+      "activity": "drawCalled",
+      "state": "PinchDetected",
+      "cursor_X": 1828.936,
+      "cursor_y": 749.9822,
+      "slider_position_X": 1826.0823,
       "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1108.1161,
-      "cursor_y": 707.813,
-      "slider_position_X": 1108.1161,
+      "cursor_X": 1828.936,
+      "cursor_y": 749.9822,
+      "slider_position_X": 1828.936,
       "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1139.334,
-      "cursor_y": 707.09125,
-      "slider_position_X": 1108.1161,
+      "cursor_X": 1834.2041,
+      "cursor_y": 750.0433,
+      "slider_position_X": 1828.936,
       "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1139.334,
-      "cursor_y": 707.09125,
-      "slider_position_X": 1139.334,
+      "cursor_X": 1834.2041,
+      "cursor_y": 750.0433,
+      "slider_position_X": 1834.2041,
       "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1170.8762,
-      "cursor_y": 707.09155,
-      "slider_position_X": 1139.334,
-      "slider_value": 10
+      "cursor_X": 1839.7429,
+      "cursor_y": 749.80756,
+      "slider_position_X": 1834.2041,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1170.8762,
-      "cursor_y": 707.09155,
-      "slider_position_X": 1170.8762,
-      "slider_value": 10
+      "cursor_X": 1839.7429,
+      "cursor_y": 749.80756,
+      "slider_position_X": 1839.7429,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1203.4236,
-      "cursor_y": 708.1221,
-      "slider_position_X": 1170.8762,
-      "slider_value": 10
+      "cursor_X": 1846.7158,
+      "cursor_y": 749.15546,
+      "slider_position_X": 1839.7429,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1203.4236,
-      "cursor_y": 708.1221,
-      "slider_position_X": 1203.4236,
-      "slider_value": 10
+      "cursor_X": 1846.7158,
+      "cursor_y": 749.15546,
+      "slider_position_X": 1846.7158,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1237.109,
-      "cursor_y": 708.6353,
-      "slider_position_X": 1203.4236,
-      "slider_value": 11
+      "cursor_X": 1850.4557,
+      "cursor_y": 748.8548,
+      "slider_position_X": 1846.7158,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1237.109,
-      "cursor_y": 708.6353,
-      "slider_position_X": 1237.109,
-      "slider_value": 11
+      "cursor_X": 1850.4557,
+      "cursor_y": 748.8548,
+      "slider_position_X": 1850.4557,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1269.2604,
-      "cursor_y": 708.8421,
-      "slider_position_X": 1237.109,
-      "slider_value": 12
+      "cursor_X": 1857.5668,
+      "cursor_y": 748.4318,
+      "slider_position_X": 1850.4557,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1284.1168,
-      "cursor_y": 707.5556,
-      "slider_position_X": 1269.2604,
-      "slider_value": 12
+      "cursor_X": 1857.5668,
+      "cursor_y": 748.4318,
+      "slider_position_X": 1857.5668,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1316.0292,
-      "cursor_y": 705.59863,
-      "slider_position_X": 1269.2604,
-      "slider_value": 12
+      "cursor_X": 1864.6599,
+      "cursor_y": 748.2024,
+      "slider_position_X": 1857.5668,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1316.0292,
-      "cursor_y": 705.59863,
-      "slider_position_X": 1316.0292,
-      "slider_value": 12
+      "cursor_X": 1864.6599,
+      "cursor_y": 748.2024,
+      "slider_position_X": 1864.6599,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1347.4583,
-      "cursor_y": 704.1033,
-      "slider_position_X": 1316.0292,
-      "slider_value": 13
+      "cursor_X": 1868.1212,
+      "cursor_y": 748.1735,
+      "slider_position_X": 1864.6599,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1347.4583,
-      "cursor_y": 704.1033,
-      "slider_position_X": 1347.4583,
-      "slider_value": 13
+      "cursor_X": 1868.1212,
+      "cursor_y": 748.1735,
+      "slider_position_X": 1868.1212,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1378.0636,
-      "cursor_y": 702.2723,
-      "slider_position_X": 1347.4583,
-      "slider_value": 14
+      "cursor_X": 1874.6862,
+      "cursor_y": 748.2784,
+      "slider_position_X": 1868.1212,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1378.0636,
-      "cursor_y": 702.2723,
-      "slider_position_X": 1378.0636,
-      "slider_value": 14
+      "cursor_X": 1874.6862,
+      "cursor_y": 748.2784,
+      "slider_position_X": 1874.6862,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1426.6589,
-      "cursor_y": 701.08203,
-      "slider_position_X": 1378.0636,
-      "slider_value": 14
+      "cursor_X": 1877.584,
+      "cursor_y": 748.4017,
+      "slider_position_X": 1874.6862,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1426.6589,
-      "cursor_y": 701.08203,
-      "slider_position_X": 1426.6589,
-      "slider_value": 14
+      "cursor_X": 1877.584,
+      "cursor_y": 748.4017,
+      "slider_position_X": 1877.584,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1458.5339,
-      "cursor_y": 700.7359,
-      "slider_position_X": 1426.6589,
-      "slider_value": 15
+      "cursor_X": 1882.5879,
+      "cursor_y": 748.8384,
+      "slider_position_X": 1877.584,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1458.5339,
-      "cursor_y": 700.7359,
-      "slider_position_X": 1458.5339,
-      "slider_value": 15
+      "cursor_X": 1882.5879,
+      "cursor_y": 748.8384,
+      "slider_position_X": 1882.5879,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1474.6624,
-      "cursor_y": 700.93475,
-      "slider_position_X": 1458.5339,
-      "slider_value": 16
+      "cursor_X": 1884.7834,
+      "cursor_y": 749.1278,
+      "slider_position_X": 1882.5879,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1474.6624,
-      "cursor_y": 700.93475,
-      "slider_position_X": 1474.6624,
-      "slider_value": 16
+      "cursor_X": 1884.7834,
+      "cursor_y": 749.1278,
+      "slider_position_X": 1884.7834,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1519.3961,
-      "cursor_y": 698.69476,
-      "slider_position_X": 1474.6624,
-      "slider_value": 16
+      "cursor_X": 1890.1481,
+      "cursor_y": 749.9266,
+      "slider_position_X": 1884.7834,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1519.3961,
-      "cursor_y": 698.69476,
-      "slider_position_X": 1519.3961,
-      "slider_value": 16
+      "cursor_X": 1890.1481,
+      "cursor_y": 749.9266,
+      "slider_position_X": 1890.1481,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1548.9583,
-      "cursor_y": 697.7956,
-      "slider_position_X": 1519.3961,
-      "slider_value": 17
+      "cursor_X": 1893.9279,
+      "cursor_y": 750.6045,
+      "slider_position_X": 1890.1481,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1548.9583,
-      "cursor_y": 697.7956,
-      "slider_position_X": 1548.9583,
-      "slider_value": 17
+      "cursor_X": 1893.9279,
+      "cursor_y": 750.6045,
+      "slider_position_X": 1893.9279,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1577.2473,
-      "cursor_y": 695.783,
-      "slider_position_X": 1548.9583,
-      "slider_value": 18
+      "cursor_X": 1895.867,
+      "cursor_y": 751.04944,
+      "slider_position_X": 1893.9279,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1577.2473,
-      "cursor_y": 695.783,
-      "slider_position_X": 1577.2473,
-      "slider_value": 18
+      "cursor_X": 1895.867,
+      "cursor_y": 751.04944,
+      "slider_position_X": 1895.867,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1604.1587,
-      "cursor_y": 693.6339,
-      "slider_position_X": 1577.2473,
-      "slider_value": 18
+      "cursor_X": 1898.0995,
+      "cursor_y": 751.56335,
+      "slider_position_X": 1895.867,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1604.1587,
-      "cursor_y": 693.6339,
-      "slider_position_X": 1604.1587,
-      "slider_value": 18
+      "cursor_X": 1898.0995,
+      "cursor_y": 751.56335,
+      "slider_position_X": 1898.0995,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1629.3195,
-      "cursor_y": 692.23486,
-      "slider_position_X": 1604.1587,
-      "slider_value": 19
+      "cursor_X": 1898.59,
+      "cursor_y": 751.6588,
+      "slider_position_X": 1898.0995,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1629.3195,
-      "cursor_y": 692.23486,
-      "slider_position_X": 1629.3195,
-      "slider_value": 19
+      "cursor_X": 1898.59,
+      "cursor_y": 751.6588,
+      "slider_position_X": 1898.59,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1649.0918,
-      "cursor_y": 690.933,
-      "slider_position_X": 1629.3195,
-      "slider_value": 19
+      "cursor_X": 1899.0583,
+      "cursor_y": 751.6887,
+      "slider_position_X": 1898.59,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1649.0918,
-      "cursor_y": 690.933,
-      "slider_position_X": 1649.0918,
-      "slider_value": 19
+      "cursor_X": 1899.0583,
+      "cursor_y": 751.6887,
+      "slider_position_X": 1899.0583,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1667.7211,
-      "cursor_y": 690.12726,
-      "slider_position_X": 1649.0918,
-      "slider_value": 20
+      "cursor_X": 1899.1798,
+      "cursor_y": 751.5836,
+      "slider_position_X": 1899.0583,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "PinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1667.7211,
-      "cursor_y": 690.12726,
-      "slider_position_X": 1667.7211,
-      "slider_value": 20
+      "cursor_X": 1899.1798,
+      "cursor_y": 751.5836,
+      "slider_position_X": 1899.1798,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "PinchDetected",
-      "cursor_X": 1681.0942,
-      "cursor_y": 686.22363,
-      "slider_position_X": 1667.7211,
-      "slider_value": 20
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1681.0942,
-      "cursor_y": 686.22363,
-      "slider_position_X": 1681.0942,
-      "slider_value": 20
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1702.4172,
-      "cursor_y": 683.30396,
-      "slider_position_X": 1681.0942,
-      "slider_value": 20
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1702.4172,
-      "cursor_y": 683.30396,
-      "slider_position_X": 1702.4172,
-      "slider_value": 20
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1717.1846,
-      "cursor_y": 681.3319,
-      "slider_position_X": 1702.4172,
-      "slider_value": 21
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1717.1846,
-      "cursor_y": 681.3319,
-      "slider_position_X": 1717.1846,
-      "slider_value": 21
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1732.1543,
-      "cursor_y": 681.4044,
-      "slider_position_X": 1717.1846,
-      "slider_value": 21
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1732.1543,
-      "cursor_y": 681.4044,
-      "slider_position_X": 1732.1543,
-      "slider_value": 21
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1745.8209,
-      "cursor_y": 679.2143,
-      "slider_position_X": 1732.1543,
-      "slider_value": 21
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1745.8209,
-      "cursor_y": 679.2143,
-      "slider_position_X": 1745.8209,
-      "slider_value": 21
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1756.801,
-      "cursor_y": 679.2405,
-      "slider_position_X": 1745.8209,
-      "slider_value": 21
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1756.801,
-      "cursor_y": 679.2405,
-      "slider_position_X": 1756.801,
-      "slider_value": 21
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1761.0635,
-      "cursor_y": 680.2219,
-      "slider_position_X": 1756.801,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1761.0635,
-      "cursor_y": 680.2219,
-      "slider_position_X": 1761.0635,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1765.1249,
-      "cursor_y": 681.6704,
-      "slider_position_X": 1761.0635,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1765.1249,
-      "cursor_y": 681.6704,
-      "slider_position_X": 1765.1249,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1768.812,
-      "cursor_y": 682.1958,
-      "slider_position_X": 1765.1249,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1768.812,
-      "cursor_y": 682.1958,
-      "slider_position_X": 1768.812,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1775.0444,
-      "cursor_y": 682.3811,
-      "slider_position_X": 1768.812,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1775.0444,
-      "cursor_y": 682.3811,
-      "slider_position_X": 1775.0444,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1779.3861,
-      "cursor_y": 682.4625,
-      "slider_position_X": 1775.0444,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1779.3861,
-      "cursor_y": 682.4625,
-      "slider_position_X": 1779.3861,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1781.291,
-      "cursor_y": 682.49274,
-      "slider_position_X": 1779.3861,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1781.291,
-      "cursor_y": 682.49274,
-      "slider_position_X": 1781.291,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1781.291,
-      "cursor_y": 682.49274,
-      "slider_position_X": 1781.291,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1781.291,
-      "cursor_y": 682.49274,
-      "slider_position_X": 1781.291,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1792.7598,
-      "cursor_y": 682.37103,
-      "slider_position_X": 1781.291,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1792.7598,
-      "cursor_y": 682.37103,
-      "slider_position_X": 1792.7598,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1797.8108,
-      "cursor_y": 682.2706,
-      "slider_position_X": 1792.7598,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1797.8108,
-      "cursor_y": 682.2706,
-      "slider_position_X": 1797.8108,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1804.4812,
-      "cursor_y": 682.05383,
-      "slider_position_X": 1797.8108,
-      "slider_value": 22
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1804.4812,
-      "cursor_y": 682.05383,
-      "slider_position_X": 1804.4812,
-      "slider_value": 22
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1812.7517,
-      "cursor_y": 681.8654,
-      "slider_position_X": 1804.4812,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1812.7517,
-      "cursor_y": 681.8654,
-      "slider_position_X": 1812.7517,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1823.6903,
-      "cursor_y": 681.81866,
-      "slider_position_X": 1812.7517,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1823.6903,
-      "cursor_y": 681.81866,
-      "slider_position_X": 1823.6903,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1839.6387,
-      "cursor_y": 681.83966,
-      "slider_position_X": 1823.6903,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1839.6387,
-      "cursor_y": 681.83966,
-      "slider_position_X": 1839.6387,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1844.8085,
-      "cursor_y": 681.9793,
-      "slider_position_X": 1839.6387,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1844.8085,
-      "cursor_y": 681.9793,
-      "slider_position_X": 1844.8085,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1855.0581,
-      "cursor_y": 682.0061,
-      "slider_position_X": 1844.8085,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1855.0581,
-      "cursor_y": 682.0061,
-      "slider_position_X": 1855.0581,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1864.5894,
-      "cursor_y": 682.2277,
-      "slider_position_X": 1855.0581,
-      "slider_value": 23
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture continued away from slider",
-      "cursor_X": 1864.5894,
-      "cursor_y": 682.2277,
-      "slider_position_X": 1864.5894,
-      "slider_value": 23
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1874.0234,
-      "cursor_y": 682.74536,
-      "slider_position_X": 1864.5894,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1874.0234,
-      "cursor_y": 682.74536,
-      "slider_position_X": 1874.0234,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1882.5868,
-      "cursor_y": 683.56256,
-      "slider_position_X": 1874.0234,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1882.5868,
-      "cursor_y": 683.56256,
-      "slider_position_X": 1882.5868,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1890.3392,
-      "cursor_y": 684.40173,
-      "slider_position_X": 1882.5868,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1890.3392,
-      "cursor_y": 684.40173,
-      "slider_position_X": 1890.3392,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1897.3267,
-      "cursor_y": 684.9216,
-      "slider_position_X": 1890.3392,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1897.3267,
-      "cursor_y": 684.9216,
-      "slider_position_X": 1897.3267,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1903.5767,
-      "cursor_y": 685.3239,
-      "slider_position_X": 1897.3267,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1903.5767,
-      "cursor_y": 685.3239,
-      "slider_position_X": 1903.5767,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1908.8884,
-      "cursor_y": 685.7521,
-      "slider_position_X": 1903.5767,
-      "slider_value": 24
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1908.8884,
-      "cursor_y": 685.7521,
-      "slider_position_X": 1908.8884,
-      "slider_value": 24
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1913.2544,
-      "cursor_y": 686.1177,
-      "slider_position_X": 1908.8884,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1913.2544,
-      "cursor_y": 686.1177,
-      "slider_position_X": 1913.2544,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1916.7253,
-      "cursor_y": 686.4942,
-      "slider_position_X": 1913.2544,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1916.7253,
-      "cursor_y": 686.4942,
-      "slider_position_X": 1916.7253,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1919.5479,
-      "cursor_y": 686.7939,
-      "slider_position_X": 1916.7253,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1919.5479,
-      "cursor_y": 686.7939,
-      "slider_position_X": 1919.5479,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1921.7773,
-      "cursor_y": 687.02496,
-      "slider_position_X": 1919.5479,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1921.7773,
-      "cursor_y": 687.02496,
-      "slider_position_X": 1921.7773,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1923.6013,
-      "cursor_y": 687.18335,
-      "slider_position_X": 1921.7773,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1923.6013,
-      "cursor_y": 687.18335,
-      "slider_position_X": 1923.6013,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1925.0349,
-      "cursor_y": 687.2278,
-      "slider_position_X": 1923.6013,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1925.0349,
-      "cursor_y": 687.2278,
-      "slider_position_X": 1925.0349,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1926.0583,
-      "cursor_y": 687.2041,
-      "slider_position_X": 1925.0349,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1926.0583,
-      "cursor_y": 687.2041,
-      "slider_position_X": 1926.0583,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1926.5035,
-      "cursor_y": 687.2008,
-      "slider_position_X": 1926.0583,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1926.5035,
-      "cursor_y": 687.2008,
-      "slider_position_X": 1926.5035,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1927.7341,
-      "cursor_y": 687.2258,
-      "slider_position_X": 1926.5035,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1927.7341,
-      "cursor_y": 687.2258,
-      "slider_position_X": 1927.7341,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1928.4711,
-      "cursor_y": 687.29736,
-      "slider_position_X": 1927.7341,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1928.4711,
-      "cursor_y": 687.29736,
-      "slider_position_X": 1928.4711,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1929.0881,
-      "cursor_y": 687.38983,
-      "slider_position_X": 1928.4711,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1929.0881,
-      "cursor_y": 687.38983,
-      "slider_position_X": 1929.0881,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1929.611,
-      "cursor_y": 687.532,
-      "slider_position_X": 1929.0881,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1929.611,
-      "cursor_y": 687.532,
-      "slider_position_X": 1929.611,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1929.9988,
-      "cursor_y": 687.69147,
-      "slider_position_X": 1929.611,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1929.9988,
-      "cursor_y": 687.69147,
-      "slider_position_X": 1929.9988,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1930.1755,
-      "cursor_y": 687.7765,
-      "slider_position_X": 1929.9988,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1930.1755,
-      "cursor_y": 687.7765,
-      "slider_position_X": 1930.1755,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1930.5023,
-      "cursor_y": 687.93616,
-      "slider_position_X": 1930.1755,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1930.5023,
-      "cursor_y": 687.93616,
-      "slider_position_X": 1930.5023,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1930.796,
-      "cursor_y": 688.0828,
-      "slider_position_X": 1930.5023,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1930.796,
-      "cursor_y": 688.0828,
-      "slider_position_X": 1930.796,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1931.0815,
-      "cursor_y": 688.2266,
-      "slider_position_X": 1930.796,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1931.0815,
-      "cursor_y": 688.2266,
-      "slider_position_X": 1931.0815,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1931.3728,
-      "cursor_y": 688.37244,
-      "slider_position_X": 1931.0815,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1931.3728,
-      "cursor_y": 688.37244,
-      "slider_position_X": 1931.3728,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1931.6746,
-      "cursor_y": 688.52246,
-      "slider_position_X": 1931.3728,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1931.6746,
-      "cursor_y": 688.52246,
-      "slider_position_X": 1931.6746,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1931.9763,
-      "cursor_y": 688.6733,
-      "slider_position_X": 1931.6746,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1931.9763,
-      "cursor_y": 688.6733,
-      "slider_position_X": 1931.9763,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1932.2665,
-      "cursor_y": 688.8206,
-      "slider_position_X": 1931.9763,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1932.404,
-      "cursor_y": 688.8913,
-      "slider_position_X": 1932.2665,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1932.655,
-      "cursor_y": 689.02216,
-      "slider_position_X": 1932.2665,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1932.655,
-      "cursor_y": 689.02216,
-      "slider_position_X": 1932.655,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1932.7649,
-      "cursor_y": 689.0806,
-      "slider_position_X": 1932.655,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1932.7649,
-      "cursor_y": 689.0806,
-      "slider_position_X": 1932.7649,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.0536,
-      "cursor_y": 689.2391,
-      "slider_position_X": 1932.7649,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.0536,
-      "cursor_y": 689.2391,
-      "slider_position_X": 1933.0536,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.221,
-      "cursor_y": 689.3407,
-      "slider_position_X": 1933.0536,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.221,
-      "cursor_y": 689.3407,
-      "slider_position_X": 1933.221,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.3583,
-      "cursor_y": 689.431,
-      "slider_position_X": 1933.221,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.3583,
-      "cursor_y": 689.431,
-      "slider_position_X": 1933.3583,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.4652,
-      "cursor_y": 689.5054,
-      "slider_position_X": 1933.3583,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.4652,
-      "cursor_y": 689.5054,
-      "slider_position_X": 1933.4652,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.5581,
-      "cursor_y": 689.57446,
-      "slider_position_X": 1933.4652,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.5581,
-      "cursor_y": 689.57446,
-      "slider_position_X": 1933.5581,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.6384,
-      "cursor_y": 689.63696,
-      "slider_position_X": 1933.5581,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.6384,
-      "cursor_y": 689.63696,
-      "slider_position_X": 1933.6384,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.7001,
-      "cursor_y": 689.6868,
-      "slider_position_X": 1933.6384,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.7001,
-      "cursor_y": 689.6868,
-      "slider_position_X": 1933.7001,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.7517,
-      "cursor_y": 689.734,
-      "slider_position_X": 1933.7001,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.7517,
-      "cursor_y": 689.734,
-      "slider_position_X": 1933.7517,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.793,
-      "cursor_y": 689.7772,
-      "slider_position_X": 1933.7517,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.793,
-      "cursor_y": 689.7772,
-      "slider_position_X": 1933.793,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8237,
-      "cursor_y": 689.8125,
-      "slider_position_X": 1933.793,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8237,
-      "cursor_y": 689.8125,
-      "slider_position_X": 1933.8237,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8457,
-      "cursor_y": 689.8416,
-      "slider_position_X": 1933.8237,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8457,
-      "cursor_y": 689.8416,
-      "slider_position_X": 1933.8457,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8613,
-      "cursor_y": 689.86725,
-      "slider_position_X": 1933.8457,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8613,
-      "cursor_y": 689.86725,
-      "slider_position_X": 1933.8613,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8718,
-      "cursor_y": 689.89044,
-      "slider_position_X": 1933.8613,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8718,
-      "cursor_y": 689.89044,
-      "slider_position_X": 1933.8718,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8761,
-      "cursor_y": 689.911,
-      "slider_position_X": 1933.8718,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8761,
-      "cursor_y": 689.911,
-      "slider_position_X": 1933.8761,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8765,
-      "cursor_y": 689.9205,
-      "slider_position_X": 1933.8761,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8765,
-      "cursor_y": 689.9205,
-      "slider_position_X": 1933.8765,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8723,
-      "cursor_y": 689.9409,
-      "slider_position_X": 1933.8765,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8723,
-      "cursor_y": 689.9409,
-      "slider_position_X": 1933.8723,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8527,
-      "cursor_y": 689.97144,
-      "slider_position_X": 1933.8723,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8527,
-      "cursor_y": 689.97144,
-      "slider_position_X": 1933.8527,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8306,
-      "cursor_y": 689.99194,
-      "slider_position_X": 1933.8527,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8306,
-      "cursor_y": 689.99194,
-      "slider_position_X": 1933.8306,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.8031,
-      "cursor_y": 690.0124,
-      "slider_position_X": 1933.8306,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.8031,
-      "cursor_y": 690.0124,
-      "slider_position_X": 1933.8031,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.772,
-      "cursor_y": 690.03186,
-      "slider_position_X": 1933.8031,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.772,
-      "cursor_y": 690.03186,
-      "slider_position_X": 1933.772,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.7427,
-      "cursor_y": 690.04803,
-      "slider_position_X": 1933.772,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.7427,
-      "cursor_y": 690.04803,
-      "slider_position_X": 1933.7427,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.7166,
-      "cursor_y": 690.0609,
-      "slider_position_X": 1933.7427,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.7166,
-      "cursor_y": 690.0609,
-      "slider_position_X": 1933.7166,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.6855,
-      "cursor_y": 690.07135,
-      "slider_position_X": 1933.7166,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.6855,
-      "cursor_y": 690.07135,
-      "slider_position_X": 1933.6855,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.6445,
-      "cursor_y": 690.07806,
-      "slider_position_X": 1933.6855,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.6445,
-      "cursor_y": 690.07806,
-      "slider_position_X": 1933.6445,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.6234,
-      "cursor_y": 690.0861,
-      "slider_position_X": 1933.6445,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.6234,
-      "cursor_y": 690.0861,
-      "slider_position_X": 1933.6234,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.6035,
-      "cursor_y": 690.09125,
-      "slider_position_X": 1933.6234,
-      "slider_value": 25
-    },
-    {
-      "activity": "sliderMoved",
-      "state": "PinchDetected",
-      "message": "Gesture detected on slider",
-      "cursor_X": 1933.6035,
-      "cursor_y": 690.09125,
-      "slider_position_X": 1933.6035,
-      "slider_value": 25
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1933.5391,
-      "cursor_y": 690.1281,
-      "slider_position_X": 1933.6035,
-      "slider_value": 25
+      "cursor_X": 1899.3132,
+      "cursor_y": 751.2989,
+      "slider_position_X": 1899.1798,
+      "slider_value": 9
     },
     {
       "activity": "StateTransition",
       "state": "PinchDetected",
       "message": "Transitioning from states PinchDetected to NoPinchDetected",
-      "cursor_X": 1933.5391,
-      "cursor_y": 690.1281,
-      "slider_position_X": 1933.6035,
-      "slider_value": 25
+      "cursor_X": 1899.3132,
+      "cursor_y": 751.2989,
+      "slider_position_X": 1899.1798,
+      "slider_value": 9
     },
     {
       "activity": "gestureNoLongerDetected",
       "state": "PinchDetected",
       "message": "Gesture no longer detected",
-      "cursor_X": 1933.5391,
-      "cursor_y": 690.1281,
-      "slider_position_X": 1933.6035,
-      "slider_value": 25
+      "cursor_X": 1899.3132,
+      "cursor_y": 751.2989,
+      "slider_position_X": 1899.1798,
+      "slider_value": 9
     },
     {
       "activity": "sliderMoved",
       "state": "NoPinchDetected",
       "message": "Gesture detected on slider",
-      "cursor_X": 1933.5391,
-      "cursor_y": 690.1281,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1899.3132,
+      "cursor_y": 751.2989,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1933.3204,
-      "cursor_y": 690.2874,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1899.2598,
+      "cursor_y": 751.23773,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     },
     {
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 1933.3204,
-      "cursor_y": 690.2874,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1899.2598,
+      "cursor_y": 751.23773,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     },
     {
       "activity": "drawCalled",
       "state": "NoPinchDetected",
-      "cursor_X": 1932.9473,
-      "cursor_y": 690.5793,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1899.0677,
+      "cursor_y": 751.2101,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     },
     {
       "activity": "cursorOverSlider",
       "state": "NoPinchDetected",
       "message": "Cursor is over circle without pinch detection",
-      "cursor_X": 1932.9473,
-      "cursor_y": 690.5793,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1899.0677,
+      "cursor_y": 751.2101,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1898.9988,
+      "cursor_y": 751.2059,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1898.9988,
+      "cursor_y": 751.2059,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1898.7571,
+      "cursor_y": 751.2277,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1898.7571,
+      "cursor_y": 751.2277,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1898.5721,
+      "cursor_y": 751.2499,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1898.5721,
+      "cursor_y": 751.2499,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1898.176,
+      "cursor_y": 751.29987,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1898.176,
+      "cursor_y": 751.29987,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1897.9758,
+      "cursor_y": 751.3245,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1897.9758,
+      "cursor_y": 751.3245,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1897.2285,
+      "cursor_y": 751.42456,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1897.2285,
+      "cursor_y": 751.42456,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1895.9714,
+      "cursor_y": 751.5888,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1895.9714,
+      "cursor_y": 751.5888,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1895.0076,
+      "cursor_y": 751.70013,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1895.0076,
+      "cursor_y": 751.70013,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoPinchDetected",
+      "cursor_X": 1892.8197,
+      "cursor_y": 751.89685,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
+    },
+    {
+      "activity": "cursorOverSlider",
+      "state": "NoPinchDetected",
+      "message": "Cursor is over circle without pinch detection",
+      "cursor_X": 1892.8197,
+      "cursor_y": 751.89685,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     },
     {
       "activity": "BlockCompleted",
       "state": "NoPinchDetected",
       "message": "Block 10 complete",
-      "cursor_X": 1932.9473,
-      "cursor_y": 690.5793,
-      "slider_position_X": 1933.5391,
-      "slider_value": 25
+      "cursor_X": 1892.8197,
+      "cursor_y": 751.89685,
+      "slider_position_X": 1899.3132,
+      "slider_value": 9
     }
   ]
 }

@@ -72,7 +72,7 @@ public class Main extends PApplet {
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
-        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0])));
+        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]+1))); //+ 1 for gesture type 1
         println(digits);
 
         // FOR LOGGING /////////////////////
@@ -203,7 +203,7 @@ public class Main extends PApplet {
 
     @Override
     public void keyPressed(){
-        if(key == 0x20){
+        if(key == TAB){
             try {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 

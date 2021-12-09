@@ -247,7 +247,7 @@ public class Main extends PApplet {
 
     @Override
     public void keyPressed(){
-        if(key == 0x20){
+        if(key == TAB){
             try {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 
