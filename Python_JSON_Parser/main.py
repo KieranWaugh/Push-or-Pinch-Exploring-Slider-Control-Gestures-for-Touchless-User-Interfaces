@@ -2,6 +2,8 @@ import json
 import glob
 import csv
 from collections import OrderedDict
+from tabulate import tabulate
+
 
 class Log:
     def __init__(self, PID, gesture, task, target, block, startTime, endTime, frames=None):
@@ -52,11 +54,17 @@ def time_elapsed_block(data):
 
 
 def main():
-    log : Log
-    with open('/Users/kieranwaugh/Projects/Touchless_Slider_Experiment/Logs/-1/alphaSelector/Dwell/-1_14.json') as json_file:
-        log = extract_data(json.load(json_file))
-        print(block_success(log))
-        print(time_elapsed_block(log))
+    tableRows = [["PID", "Block", "Target", "Time Elapsed", "Success"]]
+    files = glob.glob("/Users/kieranwaugh/Projects/Touchless_Slider_Experiment/Logs/**/alphaSelector/Dwell/*.json", recursive=True)
+    log: Log
+    for file in files:
+        with open(file) as json_file:
+            log = extract_data(json.load(json_file))
+            #print(block_success(log))
+            #print(time_elapsed_block(log))
+            tableRows.append([log.PID, log.block, log.target, time_elapsed_block(log), block_success(log)])
+
+    print(tabulate(tableRows, headers="firstrow", numalign="center", stralign="center", tablefmt="grid"))
 
 
 if __name__ == "__main__":
