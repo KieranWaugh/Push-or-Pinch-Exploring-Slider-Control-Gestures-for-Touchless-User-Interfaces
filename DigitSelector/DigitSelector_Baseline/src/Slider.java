@@ -1,6 +1,7 @@
 import processing.core.PApplet;
 
 import static java.lang.Math.sqrt;
+import static processing.core.PApplet.println;
 import static processing.core.PApplet.sq;
 
 public class Slider {
@@ -28,6 +29,7 @@ public class Slider {
 
         sectionsArray = getSliderSections(this.sections);
         textDistance = sectionsDistance/2;
+        println(sectionsDistance);
         sectionMarkers = new Line[this.sections + 1];
         for (int i = 0; i < sectionMarkers.length; i++){
 

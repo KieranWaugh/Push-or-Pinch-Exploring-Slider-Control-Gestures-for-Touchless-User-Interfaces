@@ -71,10 +71,10 @@ public class Main extends PApplet {
 
         cursor = new Cursor(this);
         rectangle = new Rectangle(this, 300, 300, 100, 100);
-        slider = new Slider(this,600, 1960, 720, 720, 9);
+        //slider = new Slider(this,600, 1960, 720, 720, 9);
 
 
-        //slider = new Slider(this,300, 1600, 720, 720, 10);
+        slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
         Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]))); // + 0 for baseline
@@ -134,7 +134,7 @@ public class Main extends PApplet {
 
 
                 }
-                slider.circle.display(255, 0, 0);
+                slider.circle.display(255, 0, 0, 128);
                 cursor.update(leap);
                 break;
             case NoPinchDetected:
@@ -159,12 +159,12 @@ public class Main extends PApplet {
                 }
 
                 if (slider.overCircle(cursor, slider.circle.xCoor, slider.circle.yCoor, 75)){
-                    slider.circle.colour(0, 68, 255);
+                    slider.circle.colour(0, 68, 255, 128);
                     cursor.update(leap);
                     logData.addFrame(new Frame(FrameCategory.cursorOverSlider, state, "Cursor is over circle without pinch detection", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     //addLogAction(state, "Cursor is over circle without pinch detection", new Data(Data.dataTypes.CursorOverSlider, cursor.x, cursor.y));
                 }else{
-                    slider.circle.display(255, 0, 0);
+                    slider.circle.display(255, 0, 0, 128);
                     cursor.update(leap);
                 }
 
@@ -188,7 +188,7 @@ public class Main extends PApplet {
                     slider.circle.xCoor = cursor.x;
                     slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
-                    slider.circle.colour(0, 68, 255);
+                    slider.circle.colour(0, 68, 255, 128);
                     cursor.update(leap);
 
                     if((slider.overCircle(cursor, slider.circle.xCoor, slider.circle.yCoor, 75))){
@@ -201,7 +201,7 @@ public class Main extends PApplet {
 
 
                 }else{
-                    slider.circle.display(255, 0, 0);
+                    slider.circle.display(255, 0, 0, 128);
                     logData.addFrame(new Frame(FrameCategory.gestureDetected, state, "Gesture detected not on slider", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                     cursor.isPinchingOver = false;
                     cursor.update(leap);

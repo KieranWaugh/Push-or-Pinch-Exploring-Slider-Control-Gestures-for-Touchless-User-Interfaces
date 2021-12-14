@@ -52,8 +52,26 @@ def block_success(data):
 def time_elapsed_block(data):
     return data.endTime - data.startTime
 
+def overshoots(data: Log):
+    overList = []
+    for frame in data.frames:
+        if frame.slider_value > data.target:
+            overList.append(frame.slider_value)
+            #print("target: " + str(data.target) + " value: " + str(frame.slider_value))
+    return overList
+
+def slider_loc(data: Log):
+    if data.target == 0:
+        minExampleSpace = 600
+    else:
+        minExampleSpace = 600 + ((data.target - 1) * 132)
+    maxExampleSpace = 600 + (data.target * 132)
+    return ((data.frames[-1].slider_position_X)) #/ exampleSpace)
+
 
 def main():
+
+
 
     participants = str(input("Enter participant number or * for all\n"))
     task = str(input("enter task identifier:\n1: digitSelector\n2: alphaSelector\n3: shapeMove\n"))
@@ -79,13 +97,13 @@ def main():
     else:
         print("wrong input")
 
-    tableRows = [["PID", "Block", "Target", "Slider Value", "Time Elapsed", "Success"]]
+    tableRows = [["PID", "Block", "Target", "Slider Value", "Time Elapsed", "Success", "Overshoots", "Overshoots Values", "location"]]
     files = glob.glob("/Users/kieranwaugh/Projects/Touchless_Slider_Experiment/Logs/" + participants + "/" + task + "/" + gesture + "/*.json")
     log: Log
     for file in files:
         with open(file) as json_file:
             log = extract_data(json.load(json_file))
-            tableRows.append([log.PID, log.block, log.target, log.frames[-1].slider_value, time_elapsed_block(log), block_success(log)])
+            tableRows.append([log.PID, log.block, log.target, log.frames[-1].slider_value, time_elapsed_block(log), block_success(log), len(set(overshoots(log))), set(overshoots(log)), slider_loc(log)])
 
     print(tabulate(tableRows, headers="firstrow", numalign="center", stralign="center", tablefmt="grid"))
 

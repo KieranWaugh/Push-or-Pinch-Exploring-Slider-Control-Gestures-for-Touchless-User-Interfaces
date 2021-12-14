@@ -12,14 +12,14 @@ public class Circle {
         this.width = width;
     }
 
-    public void display(int r, int b, int g){
-        sketch.fill(r,b,g);
+    public void display(int r, int b, int g, int a){
+        sketch.fill(r,b,g,a);
         sketch.noStroke();
         sketch.ellipse(xCoor, yCoor, height, width);
     }
 
-    public void colour(int a, int b, int c){
-        display(a, b, c);
+    public void colour(int a, int b, int c, int t){
+        display(a, b, c, t);
     }
 
 //    public void changeLocation(float x, float y, int r, int b, int g){
