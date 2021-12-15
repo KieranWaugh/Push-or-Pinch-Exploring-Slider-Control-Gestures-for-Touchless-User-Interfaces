@@ -21,6 +21,7 @@ public class Main extends PApplet {
     State state;
     LogData logData;
     static String[] clArgs;
+    boolean isTraining = true;
     public static ArrayList<Integer> digits = new ArrayList<>(); //{1,2,3,4,5,6,7,8,9,10,3,7,1,4,8};
     int digitIndex = 0;
     public static int block = 0;
@@ -49,7 +50,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(2);
+        fullScreen(1);
     }
 
     @Override
@@ -82,8 +83,10 @@ public class Main extends PApplet {
         println(digits);
 
         // FOR LOGGING /////////////////////
-        loggingData();
-        //logData.export();
+        logData = new LogData(this);
+        if(!isTraining){
+            loggingData();
+        }
         ////////////////////////////////
 
         state = State.NoHands;
@@ -96,17 +99,19 @@ public class Main extends PApplet {
     }
 
     void loggingData(){
-        logData = new LogData(this);
         logData.PID = Integer.parseInt(clArgs[0]);
         logData.selectionMethod = clArgs[1];
         logData.setting = clArgs[2];
         logData.target = digits.get(digitIndex);
+        logData.sliderSectionLength = slider.sectionsDistance;
         logData.startTime = millis();
 
         println("Participant number: " + logData.PID);
         println("Gesture: " + logData.selectionMethod);
         println("Task: " + logData.setting);
         println("Block: " + block);
+        println("Target: " + logData.target);
+
     }
 
     @Override
@@ -116,7 +121,12 @@ public class Main extends PApplet {
         textSize(50);
         fill(0,0,0);
         if(digits.size() >0){
-            text("Use the slider to select the number " + digits.get(digitIndex), displayWidth/(float)2, 250);
+            if(!isTraining){
+                text("Use the slider to select the number " + digits.get(digitIndex), displayWidth/(float)2, 250);
+            }else{
+                text("PRACTICE: Use the slider to select a number", displayWidth/(float)2, 250);
+            }
+
         }
 
         slider.display();
@@ -182,25 +192,25 @@ public class Main extends PApplet {
                     state = State.NoPinchDetected;
                     unPinched = true;
                     sliderState = slider.circle.xCoor;
-                    println("set sliderstate: " + sliderState);
+                   // println("set sliderstate: " + sliderState);
 
 
                 }
 
 
                 if(unPinched){
-                    println("re setting slider pos: " + sliderState);
-                    println("loc: " + slider.circle.xCoor);
+                    //println("re setting slider pos: " + sliderState);
+                   // println("loc: " + slider.circle.xCoor);
                     slider.circle.xCoor = sliderState;
                     unPinched = false;
                 }else{
                     if (lastCursorX < cursor.x){ //right
-                        println("moving right");
+                        //println("moving right");
                         slider.circle.xCoor = sliderState + Math.abs((cursor.x - pinchCoordX) );
                         slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
                     }else{//left
-                        println("moving left");
+                        //println("moving left");
                         slider.circle.xCoor = sliderState - Math.abs((pinchCoordX - cursor.x));
                         slider.circle.xCoor = constrain(slider.circle.xCoor, slider.startX, slider.endX);
 
@@ -230,18 +240,30 @@ public class Main extends PApplet {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 
 
-                if (digits.size() > 1){
-                    logData.addFrame(new Frame(FrameCategory.BlockCompleted, state, "Block " + block + " complete", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-                    logData.export();
-                    digits.remove(digitIndex);
+                if (isTraining){
                     cursor.isPinchingOver = false;
                     state = State.NoHands;
                     slider.circle.xCoor = slider.startX;
                     sliderState = slider.startX;
-                    block++;
+                    isTraining = false;
                     loggingData();
                 }else{
-                    logData.addFrame(new Frame(FrameCategory.TaskCompleted, state, "Task completed", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+                    if (digits.size() > 1){
+                        logData.addFrame(new Frame(FrameCategory.BlockCompleted, state, "Block " + block + " complete", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+                        logData.export();
+                        digits.remove(digitIndex);
+                        cursor.isPinchingOver = false;
+                        state = State.NoHands;
+                        slider.circle.xCoor = slider.startX;
+                        sliderState = slider.startX;
+                        block++;
+                        println("Position: " + slider.sliderValue + "\n");
+                        loggingData();
+                    }else{
+                        logData.addFrame(new Frame(FrameCategory.TaskCompleted, state, "Task completed", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+
+                    }
+
                     logData.export();
                 }
 

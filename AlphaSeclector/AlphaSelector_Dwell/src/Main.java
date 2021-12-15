@@ -20,6 +20,7 @@ public class Main extends PApplet {
     Slider slider;
     Arc arc;
     State state;
+    boolean isTraining = true;
     LogData logData;
     static String[] clArgs;
     public static ArrayList<String> digits = new ArrayList<>(); //{1,2,3,4,5,6,7,8,9,10,3,7,1,4,8};
@@ -83,11 +84,14 @@ public class Main extends PApplet {
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 
-        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 2)); // plus 2 for 2nd gesture type
+        Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 3)); // plus 3 for 3rd gesture type
         println(digits);
 
         // FOR LOGGING /////////////////////
-        loggingData();
+        logData = new LogData(this);
+        if(!isTraining){
+            loggingData();
+        }
         ////////////////////////////////
 
         state = State.NoHands;
@@ -99,17 +103,19 @@ public class Main extends PApplet {
     }
 
     void loggingData(){
-        logData = new LogData(this);
+
         logData.PID = Integer.parseInt(clArgs[0]);
         logData.selectionMethod = clArgs[1];
         logData.setting = clArgs[2];
         logData.target = digits.get(digitIndex);
+        logData.sliderSectionLength = slider.sectionsDistance;
         logData.startTime = millis();
 
         println("Participant number: " + logData.PID);
         println("Gesture: " + logData.selectionMethod);
         println("Task: " + logData.setting);
         println("Block: " + block);
+        println("Target: " + logData.target);
     }
 
     @Override
@@ -119,7 +125,12 @@ public class Main extends PApplet {
         textSize(50);
         fill(0,0,0);
         if(digits.size() >0){
-            text("Use the slider to select the number " + digits.get(digitIndex), displayWidth/(float)2, 250);
+            if(!isTraining){
+                text("Use the slider to select the letter " + digits.get(digitIndex), displayWidth/(float)2, 250);
+            }else{
+                text("PRACTICE: Use the slider to select a letter", displayWidth/(float)2, 250);
+            }
+
         }
 
         slider.display();
@@ -183,7 +194,7 @@ public class Main extends PApplet {
 
                         end += 0.45 * (millis() - lastTime);
                         lastTime = millis();
-                        println(end);
+                        //println(end);
                     }
 
 
@@ -251,17 +262,28 @@ public class Main extends PApplet {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 
 
-                if (digits.size() > 1){
-                    logData.addFrame(new Frame(FrameCategory.BlockCompleted, state, "Block " + block + " complete", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
-                    logData.export();
-                    digits.remove(digitIndex);
+                if (isTraining){
                     cursor.isPinchingOver = false;
                     state = State.NoHands;
                     slider.circle.xCoor = slider.startX;
-                    block++;
+                    isTraining = false;
                     loggingData();
                 }else{
-                    logData.addFrame(new Frame(FrameCategory.TaskCompleted, state, "Task completed", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+                    if (digits.size() > 1){
+                        logData.addFrame(new Frame(FrameCategory.BlockCompleted, state, "Block " + block + " complete", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+                        logData.export();
+                        digits.remove(digitIndex);
+                        cursor.isPinchingOver = false;
+                        state = State.NoHands;
+                        slider.circle.xCoor = slider.startX;
+                        block++;
+                        println("Position: " + slider.sliderValue + "\n");
+                        loggingData();
+                    }else{
+                        logData.addFrame(new Frame(FrameCategory.TaskCompleted, state, "Task completed", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
+
+                    }
+
                     logData.export();
                 }
 

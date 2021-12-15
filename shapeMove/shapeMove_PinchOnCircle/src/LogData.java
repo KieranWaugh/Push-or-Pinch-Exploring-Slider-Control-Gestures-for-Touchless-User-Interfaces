@@ -52,9 +52,9 @@ class Frame{
     float cursor_X;
     float cursor_y;
     float slider_position_X;
-    int slider_value;
+    float slider_value;
 
-    Frame(Main.FrameCategory activity, Main.State state, String message, float cursor_X, float cursor_y, float slider_position_X, int slider_value){
+    Frame(Main.FrameCategory activity, Main.State state, String message, float cursor_X, float cursor_y, float slider_position_X, float slider_value){
         this.activity = activity;
         this.state = state;
         this.message = message;
@@ -64,7 +64,7 @@ class Frame{
         this.slider_value = slider_value;
     }
 
-    Frame(Main.FrameCategory activity, Main.State state, float cursor_X, float cursor_y, float slider_position_X, int slider_value){
+    Frame(Main.FrameCategory activity, Main.State state, float cursor_X, float cursor_y, float slider_position_X, float slider_value){
         this.activity = activity;
         this.state = state;
         this.cursor_X = cursor_X;

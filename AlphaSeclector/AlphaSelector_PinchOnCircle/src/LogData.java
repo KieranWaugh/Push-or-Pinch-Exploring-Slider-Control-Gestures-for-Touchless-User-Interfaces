@@ -20,6 +20,7 @@ public class LogData {
     public String selectionMethod;
     public String setting;
     public String target;
+    public double sliderSectionLength;
     public int block;
     public long startTime;
     public ArrayList<Action> actions = new ArrayList<>();
@@ -31,7 +32,7 @@ public class LogData {
 
     void export() throws IOException {
 
-        Log log = new Log(PID, selectionMethod,setting,target,block,startTime,sketch.millis(), frames);
+        Log log = new Log(PID, selectionMethod,setting,target,sliderSectionLength,block,startTime,sketch.millis(), frames);
         log.export(sketch, log);
 
 
@@ -116,16 +117,18 @@ class Log{
     String gesture;
     String task;
     String target;
+    double sliderSectionLength;
     int block;
     long startTime;
     long endTime;
     ArrayList<Frame> frames;
 
-    Log(int PID, String gesture, String task, String target, int block, long startTime, long endTime, ArrayList<Frame> frames){
+    Log(int PID, String gesture, String task, String target, double sliderSectionLength, int block, long startTime, long endTime, ArrayList<Frame> frames){
         this.PID = PID;
         this.gesture = gesture;
         this.task = task;
         this.target = target;
+        this.sliderSectionLength = sliderSectionLength;
         this.block = block;
         this.startTime = startTime;
         this.endTime = endTime;

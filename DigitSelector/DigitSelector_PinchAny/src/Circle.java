@@ -13,7 +13,7 @@ public class Circle {
     }
 
     public void display(int r, int b, int g){
-        sketch.fill(r,b,g);
+        sketch.fill(r,b,g, 128);
         sketch.noStroke();
         sketch.ellipse(xCoor, yCoor, height, width);
     }

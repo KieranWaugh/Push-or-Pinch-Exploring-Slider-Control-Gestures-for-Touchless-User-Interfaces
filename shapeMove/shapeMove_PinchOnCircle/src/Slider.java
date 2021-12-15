@@ -16,7 +16,7 @@ public class Slider {
     Line[] sectionMarkers;
     float circleLocX, circleLocY;
     int circleLocation;
-    int sliderValue = 0;
+    float sliderValue = 0;
 
     public Slider(PApplet sketch, float startX, float endX, float startY, float endY, int sections){
         this.sketch = sketch;
@@ -73,20 +73,22 @@ public class Slider {
         sketch.fill(0,0,0);
 
 
-        for (int i = 0; i < sectionsArray.length; i++){
+        sliderValue = circle.xCoor;
 
-            if (i -1 > -1){
-               boolean temp = ((circleLocation > sectionsArray[i-1]) && (circleLocation <= sectionsArray[i]));
-                if ((circleLocation > sectionsArray[i-1]) && (circleLocation <= sectionsArray[i])){
-                    sliderValue = i-1;
-                }else if(!temp && circleLocation >= sectionsArray[i]){ //last one in list??
-                    sliderValue = i;
-                }
-            }else{
-                sliderValue = 0;
-            }
-
-        }
+//        for (int i = 0; i < sectionsArray.length; i++){
+//
+//            if (i -1 > -1){
+//               boolean temp = ((circleLocation > sectionsArray[i-1]) && (circleLocation <= sectionsArray[i]));
+//                if ((circleLocation > sectionsArray[i-1]) && (circleLocation <= sectionsArray[i])){
+//                    sliderValue = i-1;
+//                }else if(!temp && circleLocation >= sectionsArray[i]){ //last one in list??
+//                    sliderValue = i;
+//                }
+//            }else{
+//                sliderValue = 0;
+//            }
+//
+//        }
 
     }
 
