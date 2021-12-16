@@ -16,7 +16,7 @@ public class LogData {
 
 
     private final PApplet sketch;
-    public int PID;
+    public String PID;
     public String selectionMethod;
     public String setting;
     public String target;
@@ -113,7 +113,7 @@ class Data{
 
 class Log{
 
-    int PID;
+    String PID;
     String gesture;
     String task;
     String target;
@@ -123,7 +123,7 @@ class Log{
     long endTime;
     ArrayList<Frame> frames;
 
-    Log(int PID, String gesture, String task, String target, double sliderSectionLength, int block, long startTime, long endTime, ArrayList<Frame> frames){
+    Log(String PID, String gesture, String task, String target, double sliderSectionLength, int block, long startTime, long endTime, ArrayList<Frame> frames){
         this.PID = PID;
         this.gesture = gesture;
         this.task = task;
@@ -144,7 +144,7 @@ class Log{
         fw.write(log.toJson(logData));
         fw.close();
         //log.toJson(logData, new FileWriter("Logs/" + task + "/" + gesture + "/" + PID +".json"));
-        if(Main.digits.size() == 1){
+        if(Main.digits.size() == 0){
             sketch.exit();
         }
 

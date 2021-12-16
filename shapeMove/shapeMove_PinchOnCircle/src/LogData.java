@@ -143,7 +143,7 @@ class Log{
         fw.write(log.toJson(logData));
         fw.close();
         //log.toJson(logData, new FileWriter("Logs/" + task + "/" + gesture + "/" + PID +".json"));
-        if(Main.digits.size() == 1){
+        if(Main.digits.size() == 0){
             sketch.exit();
         }
 

@@ -3,871 +3,3644 @@
   "gesture": "pinchAny",
   "task": "digitSelector",
   "target": 1,
-  "block": 0,
-  "startTime": 37795,
-  "endTime": 40296,
+  "sliderSectionLength": 136.0,
+  "block": 9,
+  "startTime": 8222,
+  "endTime": 8731,
   "frames": [
     {
       "activity": "drawCalled",
       "state": "NoHands",
-      "cursor_X": 1540.8474,
-      "cursor_y": 807.39276,
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
-      "activity": "StateTransition",
+      "activity": "drawCalled",
       "state": "NoHands",
-      "message": "Transitioning from states NoHands to NoPinchDetected",
-      "cursor_X": 1540.8474,
-      "cursor_y": 807.39276,
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1539.3623,
-      "cursor_y": 808.6583,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1535.7874,
-      "cursor_y": 810.91064,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1532.3826,
-      "cursor_y": 812.5257,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1528.1057,
-      "cursor_y": 814.0977,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1520.9371,
-      "cursor_y": 816.13873,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1505.6163,
-      "cursor_y": 819.67413,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1493.6597,
-      "cursor_y": 822.00684,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1458.552,
-      "cursor_y": 827.8451,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1406.9463,
-      "cursor_y": 834.9819,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1314.0475,
-      "cursor_y": 844.169,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1249.0228,
-      "cursor_y": 848.1074,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1159.869,
-      "cursor_y": 851.314,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1109.5496,
-      "cursor_y": 852.7116,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1067.3278,
-      "cursor_y": 855.95734,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1045.2424,
-      "cursor_y": 857.1356,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 1003.0613,
-      "cursor_y": 859.1246,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 960.31165,
-      "cursor_y": 859.4961,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 926.3712,
-      "cursor_y": 858.7662,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 888.65027,
-      "cursor_y": 858.69305,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 859.7919,
-      "cursor_y": 859.06195,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 847.42126,
-      "cursor_y": 858.952,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 826.7533,
-      "cursor_y": 858.96643,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 812.78284,
-      "cursor_y": 860.3724,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 804.809,
-      "cursor_y": 860.62085,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 794.6527,
-      "cursor_y": 861.2197,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 788.94495,
-      "cursor_y": 862.96313,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 785.84094,
-      "cursor_y": 864.0758,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 784.98535,
-      "cursor_y": 864.3678,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 784.24695,
-      "cursor_y": 864.6689,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 785.1664,
-      "cursor_y": 864.6544,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 785.73987,
-      "cursor_y": 864.30884,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 787.3395,
-      "cursor_y": 863.0801,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "gestureDetected",
-      "state": "NoPinchDetected",
-      "message": "Gesture detected",
-      "cursor_X": 787.3395,
-      "cursor_y": 863.0801,
-      "slider_position_X": 600.0,
-      "slider_value": 0
-    },
-    {
-      "activity": "StateTransition",
-      "state": "NoPinchDetected",
-      "message": "Transitioning from states NoPinchDetected to PinchDetected",
-      "cursor_X": 787.3395,
-      "cursor_y": 863.0801,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 789.5437,
-      "cursor_y": 861.41534,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
       "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 790.4015,
-      "cursor_y": 860.7232,
-      "slider_position_X": 602.2042,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 792.2883,
-      "cursor_y": 859.5399,
-      "slider_position_X": 603.062,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 795.21625,
-      "cursor_y": 858.35223,
-      "slider_position_X": 604.94885,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 800.66565,
-      "cursor_y": 856.7252,
-      "slider_position_X": 607.8768,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 805.1224,
-      "cursor_y": 855.53625,
-      "slider_position_X": 613.3262,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 823.9907,
-      "cursor_y": 851.32886,
-      "slider_position_X": 617.7829,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 831.9763,
-      "cursor_y": 849.8667,
-      "slider_position_X": 636.65125,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 849.0929,
-      "cursor_y": 847.2493,
-      "slider_position_X": 644.63684,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 863.45483,
-      "cursor_y": 844.2546,
-      "slider_position_X": 661.7534,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 869.88806,
-      "cursor_y": 843.112,
-      "slider_position_X": 676.11536,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 881.9734,
-      "cursor_y": 841.3653,
-      "slider_position_X": 682.5486,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 910.5554,
-      "cursor_y": 838.48157,
-      "slider_position_X": 694.6339,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 935.61597,
-      "cursor_y": 836.9307,
-      "slider_position_X": 723.21594,
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
       "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 961.78815,
-      "cursor_y": 835.254,
-      "slider_position_X": 748.2765,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 988.93823,
-      "cursor_y": 832.41986,
-      "slider_position_X": 774.44867,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1001.7432,
-      "cursor_y": 830.8154,
-      "slider_position_X": 801.59875,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1014.9286,
-      "cursor_y": 829.2692,
-      "slider_position_X": 814.40375,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1021.1932,
-      "cursor_y": 828.65686,
-      "slider_position_X": 827.5891,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1035.8425,
-      "cursor_y": 826.8852,
-      "slider_position_X": 833.8537,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1056.7283,
-      "cursor_y": 825.1046,
-      "slider_position_X": 848.50305,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1072.509,
-      "cursor_y": 823.9205,
-      "slider_position_X": 869.3888,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1076.2147,
-      "cursor_y": 823.5811,
-      "slider_position_X": 885.16956,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1082.7561,
-      "cursor_y": 823.01825,
-      "slider_position_X": 888.87524,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1087.6724,
-      "cursor_y": 822.6432,
-      "slider_position_X": 895.4166,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1089.5671,
-      "cursor_y": 822.5024,
-      "slider_position_X": 900.3329,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1092.3522,
-      "cursor_y": 822.29755,
-      "slider_position_X": 902.22766,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1094.9894,
-      "cursor_y": 822.104,
-      "slider_position_X": 905.0127,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1095.7338,
-      "cursor_y": 822.03577,
-      "slider_position_X": 907.6499,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1095.7714,
-      "cursor_y": 822.1041,
-      "slider_position_X": 908.3943,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1094.5895,
-      "cursor_y": 822.33044,
-      "slider_position_X": 908.4319,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1092.0238,
-      "cursor_y": 822.72095,
-      "slider_position_X": 907.25,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1087.574,
-      "cursor_y": 823.3777,
-      "slider_position_X": 904.6843,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1084.598,
-      "cursor_y": 823.80505,
-      "slider_position_X": 900.2345,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1072.8152,
-      "cursor_y": 825.29047,
-      "slider_position_X": 897.25854,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1054.0428,
-      "cursor_y": 826.7858,
-      "slider_position_X": 885.4757,
-      "slider_value": 2
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1034.9698,
-      "cursor_y": 827.5205,
-      "slider_position_X": 866.70337,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1026.3672,
-      "cursor_y": 827.6243,
-      "slider_position_X": 847.6304,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1019.28784,
-      "cursor_y": 827.6431,
-      "slider_position_X": 839.0277,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1014.1036,
-      "cursor_y": 827.6192,
-      "slider_position_X": 831.94836,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1010.39905,
-      "cursor_y": 827.5509,
-      "slider_position_X": 826.7641,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1009.0652,
-      "cursor_y": 827.5172,
-      "slider_position_X": 823.0596,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1006.5946,
-      "cursor_y": 827.45264,
-      "slider_position_X": 821.7257,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1004.6123,
-      "cursor_y": 827.4105,
-      "slider_position_X": 819.2551,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 1002.3949,
-      "cursor_y": 827.39014,
-      "slider_position_X": 817.2728,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 999.98846,
-      "cursor_y": 827.44214,
-      "slider_position_X": 815.0554,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 998.14856,
-      "cursor_y": 827.4924,
-      "slider_position_X": 812.649,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 996.2815,
-      "cursor_y": 827.54584,
-      "slider_position_X": 810.8091,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 994.4542,
-      "cursor_y": 827.6009,
-      "slider_position_X": 808.942,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 992.1311,
-      "cursor_y": 827.6801,
-      "slider_position_X": 807.11475,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 990.8082,
-      "cursor_y": 827.72614,
-      "slider_position_X": 804.7916,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 989.33435,
-      "cursor_y": 827.7427,
-      "slider_position_X": 803.46875,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 988.3409,
-      "cursor_y": 827.7473,
-      "slider_position_X": 801.9949,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.7523,
-      "cursor_y": 827.76306,
-      "slider_position_X": 801.0014,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.53925,
-      "cursor_y": 827.76917,
-      "slider_position_X": 800.41284,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.28516,
-      "cursor_y": 827.7776,
-      "slider_position_X": 800.19977,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.1588,
-      "cursor_y": 827.78564,
-      "slider_position_X": 799.9457,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.0935,
-      "cursor_y": 827.7923,
-      "slider_position_X": 799.81934,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "PinchDetected",
-      "cursor_X": 987.0526,
-      "cursor_y": 827.8125,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "StateTransition",
-      "state": "PinchDetected",
-      "message": "Transitioning from states PinchDetected to NoPinchDetected",
-      "cursor_X": 987.0526,
-      "cursor_y": 827.8125,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "gestureNoLongerDetected",
-      "state": "PinchDetected",
-      "message": "Gesture no longer detected",
-      "cursor_X": 987.0526,
-      "cursor_y": 827.8125,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 987.04724,
-      "cursor_y": 827.81946,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 987.0614,
-      "cursor_y": 827.8446,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 987.17786,
-      "cursor_y": 827.925,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 987.5584,
-      "cursor_y": 828.1701,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 988.2689,
-      "cursor_y": 828.6713,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 989.3854,
-      "cursor_y": 829.4249,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 990.3878,
-      "cursor_y": 830.08826,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 991.00073,
-      "cursor_y": 830.46423,
-      "slider_position_X": 799.754,
-      "slider_value": 1
-    },
-    {
-      "activity": "drawCalled",
-      "state": "NoPinchDetected",
-      "cursor_X": 991.18555,
-      "cursor_y": 830.5742,
-      "slider_position_X": 799.754,
-      "slider_value": 1
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     },
     {
       "activity": "BlockCompleted",
-      "state": "NoPinchDetected",
+      "state": "NoHands",
+      "message": "Block 0 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 1 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 2 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 3 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 4 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 5 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 6 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 7 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
+      "message": "Block 8 complete",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "drawCalled",
+      "state": "NoHands",
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
+    },
+    {
+      "activity": "BlockCompleted",
+      "state": "NoHands",
       "message": "Block 9 complete",
-      "cursor_X": 991.18555,
-      "cursor_y": 830.5742,
-      "slider_position_X": 799.754,
-      "slider_value": 1
+      "cursor_X": 0.0,
+      "cursor_y": 0.0,
+      "slider_position_X": 600.0,
+      "slider_value": 0
     }
   ]
 }

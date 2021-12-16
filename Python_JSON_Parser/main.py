@@ -61,11 +61,11 @@ def overshoots(data: Log):
     return overList
 
 def slider_loc(data: Log):
-    if data.target == 0:
-        minExampleSpace = 600
-    else:
-        minExampleSpace = 600 + ((data.target - 1) * 132)
-    maxExampleSpace = 600 + (data.target * 132)
+    # if data.target == 0:
+    #     #minExampleSpace = 600
+    # else:
+    #     #minExampleSpace = 600 + ((data.target - 1) * 132)
+    # #maxExampleSpace = 600 + (data.target * 132)
     return ((data.frames[-1].slider_position_X)) #/ exampleSpace)
 
 

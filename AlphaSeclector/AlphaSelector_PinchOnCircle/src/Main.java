@@ -44,7 +44,7 @@ public class Main extends PApplet {
     }
 
     public void settings(){
-        fullScreen(2);
+        fullScreen(1);
     }
 
     @Override
@@ -92,18 +92,25 @@ public class Main extends PApplet {
     }
 
     void loggingData(){
-        logData.PID = Integer.parseInt(clArgs[0]);
-        logData.selectionMethod = clArgs[1];
-        logData.sliderSectionLength = slider.sectionsDistance;
-        logData.setting = clArgs[2];
-        logData.target = digits.get(digitIndex);
-        logData.startTime = millis();
+        if(digits.size() == 0){
+            exit();
+        }else{
+            logData.PID = Integer.parseInt(clArgs[0]);
+            logData.selectionMethod = clArgs[1];
+            logData.sliderSectionLength = slider.sectionsDistance;
+            logData.setting = clArgs[2];
+            logData.block = block;
+            logData.target = digits.get(digitIndex);
+            logData.startTime = millis();
 
-        println("Participant number: " + logData.PID);
-        println("Gesture: " + logData.selectionMethod);
-        println("Task: " + logData.setting);
-        println("Block: " + block);
-        println("Target: " + logData.target);
+            println("Participant number: " + logData.PID);
+            println("Gesture: " + logData.selectionMethod);
+            println("Task: " + logData.setting);
+            println("Block: " + block);
+            println("Target: " + logData.target);
+        }
+
+
     }
 
     @Override
@@ -212,7 +219,7 @@ public class Main extends PApplet {
 
     @Override
     public void keyPressed(){
-        if(key ==TAB){
+        if(key ==' '){
             try {
                 //addLogAction(state, "Participant instructed that the task is complete", null);
 
@@ -224,14 +231,16 @@ public class Main extends PApplet {
                     isTraining = false;
                     loggingData();
                 }else{
-                    if (digits.size() > 1){
+                    if (digits.size() >= 1){
                         logData.addFrame(new Frame(FrameCategory.BlockCompleted, state, "Block " + block + " complete", cursor.x, cursor.y, slider.circle.xCoor,slider.sliderValue));
                         logData.export();
                         digits.remove(digitIndex);
                         cursor.isPinchingOver = false;
                         state = State.NoHands;
                         slider.circle.xCoor = slider.startX;
-                        block++;
+                        if(digits.size() != 0){
+                            block++;
+                        }
                         println("Position: " + slider.sliderValue + "\n");
                         loggingData();
                     }else{
