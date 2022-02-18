@@ -66,9 +66,6 @@ public class Main extends PApplet {
         digits.add(300);
         digits.add(450);
         digits.add(600);
-        digits.add(275);
-        digits.add(425);
-        digits.add(500);
 
         cursor = new Cursor(this);
 
@@ -77,7 +74,7 @@ public class Main extends PApplet {
 
 //        stationary = new Rectangle(this, 1280, 600, digits.get(block), digits.get(block));
 //        moving = new Rectangle(this, 1280, 600, 200, 200);
-        slider = new Slider(this,600, 1960, 1020, 1020, 0);
+        slider = new Slider(this,600, 1960, 950, 950, 0);
         //slider = new Slider(this,300, 1600, 720, 720, 0);
 
         // FOR LOGGING /////////////////////

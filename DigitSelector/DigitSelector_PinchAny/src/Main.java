@@ -55,6 +55,7 @@ public class Main extends PApplet {
 
     @Override
     public void setup(){
+        frameRate(60);
         leap = new LeapMotion(this);
 
         digits.add(1);
@@ -62,16 +63,13 @@ public class Main extends PApplet {
         digits.add(3);
         digits.add(4);
         digits.add(5);
-        digits.add(6);
+        digits.add(7);
         digits.add(7);
         digits.add(8);
-        digits.add(9);
-        digits.add(4);
-        digits.add(7);
-        digits.add(1);
-        digits.add(4);
-        digits.add(8);
         digits.add(6);
+        digits.add(8);
+        digits.add(5);
+        digits.add(4);
 
         cursor = new Cursor(this);
         rectangle = new Rectangle(this, 300, 300, 100, 100);

@@ -32,9 +32,9 @@ public class Slider {
         for (int i = 0; i < sectionMarkers.length; i++){
 
             if (i == sectionMarkers.length - 1){
-                sectionMarkers[sectionMarkers.length - 1] = new Line(sketch, endX, endX, 1000, 1020);
+                sectionMarkers[sectionMarkers.length - 1] = new Line(sketch, endX, endX, 930, 950);
             }else{
-                sectionMarkers[i] = new Line(sketch, sectionsArray[i], sectionsArray[i], 1000, 1020);
+                sectionMarkers[i] = new Line(sketch, sectionsArray[i], sectionsArray[i], 930, 950);
             }
 
         }

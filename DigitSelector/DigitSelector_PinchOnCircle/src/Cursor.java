@@ -1,4 +1,5 @@
 import com.leapmotion.leap.Leap;
+import com.leapmotion.leap.Vector;
 import de.voidplus.leapmotion.*;
 //import processing.core.PVector;
 import processing.core.PApplet;
@@ -9,6 +10,7 @@ class Cursor{
     float x,y;
     public boolean isPinchingOver = false;
     float prevX, prevY;
+    MovingAverageFilter pinchFilter = new MovingAverageFilter(0.9, 10);
 
     boolean isPinching = false;
     float pinchStrength = 0;
@@ -95,25 +97,49 @@ class Cursor{
     }
 
     boolean isPinchingTest(LeapMotion leap){
+        float pinchDistance = getPinchDistance(leap);
 
-        for (Hand hand : leap.getHands()){
+        // Keeping naming for consistency, but this measures distance between fingertips
+        pinchStrength = (float) pinchFilter.update(pinchDistance);
+        //println(pinchStrength);
 
-            if (isPinching){
-                if (hand.getPinchStrength() < 0.8){
-                    pinchStrength = hand.getPinchStrength();
-                    isPinching = false;
+        isPinching = pinchStrength <= 30;
 
+        return isPinching;
+    }
+
+    float getPinchDistance(LeapMotion leap) {
+        if (leap.getHands().isEmpty()) {
+            return Float.MAX_VALUE;
+        }
+
+        // Get thumb and index finger
+        Finger thumb = null;
+        Finger index = null;
+
+
+        for (Hand hand : leap.getHands()) {
+            for (Finger finger : hand.getFingers()) {
+                //Finger.Type type = finger.type;
+                com.leapmotion.leap.Finger.Type type = finger.getRaw().type();
+
+                if (type == com.leapmotion.leap.Finger.Type.TYPE_THUMB) {
+                    thumb = finger;
+                } else if (type == com.leapmotion.leap.Finger.Type.TYPE_INDEX) {
+                    index = finger;
                 }
-            }else{
-                if (hand.getPinchStrength() > 0.8){
-                    pinchStrength = hand.getPinchStrength();
-                    isPinching = true;
-
-                }
-
             }
         }
-        return isPinching;
+
+        if (thumb == null || index == null) {
+            return Float.MAX_VALUE;
+        }
+
+        // Get Euclidean distance between fingertips
+        Vector thumbTip = thumb.getRaw().stabilizedTipPosition();
+        Vector indexTip = index.getRaw().stabilizedTipPosition();
+
+        return thumbTip.distanceTo(indexTip);
     }
 
 }

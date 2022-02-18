@@ -74,15 +74,13 @@ public class Main extends PApplet {
         digits.add(300);
         digits.add(450);
         digits.add(600);
-        digits.add(275);
-        digits.add(425);
-        digits.add(500);
+
 
         cursor = new Cursor(this);
         Collections.shuffle(digits, new Random(Integer.parseInt(clArgs[0]) + 3)); // plus 3 for 3rd gesture type
         println(digits);
         arc = new Arc(this, 40, 40);
-        slider = new Slider(this,600, 1960, 1020, 1020, 0);
+        slider = new Slider(this,600, 1960, 950, 950, 0);
         //slider = new Slider(this,300, 1600, 720, 720, 10);
 
 

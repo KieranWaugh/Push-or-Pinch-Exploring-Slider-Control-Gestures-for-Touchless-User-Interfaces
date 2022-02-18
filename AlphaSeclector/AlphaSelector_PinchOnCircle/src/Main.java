@@ -49,23 +49,22 @@ public class Main extends PApplet {
 
     @Override
     public void setup(){
+        frameRate(60);
         leap = new LeapMotion(this);
 
-        digits.add("Z");
-        digits.add("J");
-        digits.add("R");
-        digits.add("J");
-        digits.add("T");
-        digits.add("Q");
+        digits.add("C");
         digits.add("D");
-        digits.add("R");
-        digits.add("A");
-        digits.add("X");
-        digits.add("E");
-        digits.add("V");
-        digits.add("T");
-        digits.add("B");
+        digits.add("I");
         digits.add("M");
+        digits.add("N");
+        digits.add("V");
+        digits.add("K");
+        digits.add("O");
+        digits.add("V");
+        digits.add("J");
+        digits.add("Y");
+        digits.add("N");
+
 
         cursor = new Cursor(this);
         rectangle = new Rectangle(this, 300, 300, 100, 100);

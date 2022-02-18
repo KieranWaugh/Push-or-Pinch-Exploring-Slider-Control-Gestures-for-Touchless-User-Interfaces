@@ -126,7 +126,7 @@ class Cursor{
     boolean isTapTest(LeapMotion leap){
         if(leap.hasHands()){
             //println("z: " + frontHand.getFrontFinger().getPosition().z);
-            if( frontHand.getFrontFinger().getPosition().z > (avgZ + 5)){
+            if( frontHand.getFrontFinger().getPosition().z > (avgZ + 15)){
                 isGesture = true;
                 isPinching = true;
                 //println("GESTURE");
