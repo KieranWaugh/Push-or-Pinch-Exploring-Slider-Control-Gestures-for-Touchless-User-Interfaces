@@ -12,9 +12,10 @@ data$Condition <- factor(data$Condition)
 data$Task <- factor(data$Task)
 
 # Aggregate across the repeated measures
-data <- aggregate(subset(data, select=c("P", "Condition", "Task", "Time", "Time.to.Target")), list(P = data$P, Condition=data$Condition, Task=data$Task), mean)
-data <- subset(data, select=c(1, 2, 3, 7, 8))
+data <- aggregate(subset(data, select=c("P", "Condition", "Task", "Time", "Time.to.Target", "AbsErrorDistance")), list(P = data$P, Condition=data$Condition, Task=data$Task), mean)
+data <- subset(data, select=c(1, 2, 3, 7, 8, 9))
 
+# -----------------------------------------------------------------------------
 # ANOVA: Task Time
 time.art <- art(Time ~ Condition * Task + (1 | P), data=data)
 time.aov <- anova(time.art)
@@ -33,10 +34,11 @@ time.task.posthocs <- emmeans(time.task.model, pairwise ~ Task)
 cat("\n\nPost hoc comparisons of task type\n\n")
 print(time.task.posthocs)
 
+# -----------------------------------------------------------------------------
 # ANOVA: Time to Target
 timeto.art <- art(Time.to.Target ~ Condition * Task + (1 | P), data=data)
 timeto.aov <- anova(timeto.art)
-cat("\n\nANOVA: Time to Target")
+cat("\n\nANOVA: Time to Target\n\n")
 print(timeto.aov)
 
 # Post-hoc comparisons of estimated marginal means: interaction technique
@@ -50,3 +52,22 @@ timeto.task.model <- artlm(timeto.art, "Task")
 timeto.task.posthocs <- emmeans(timeto.task.model, pairwise ~ Task)
 cat("\n\nPost hoc comparisons of task type\n\n")
 print(timeto.task.posthocs)
+
+# -----------------------------------------------------------------------------
+# ANOVA: Error distance
+distance.art <- art(AbsErrorDistance ~ Condition * Task + (1 | P), data=data)
+distance.aov <- anova(distance.art)
+cat("\n\nANOVA: Error Distance (pixels)\n\n")
+print(distance.aov)
+
+# Post-hoc comparisons of estimated marginal means: interaction technique
+errordistance.cond.model <- artlm(distance.art, "Condition")
+errordistance.cond.posthocs <- emmeans(errordistance.cond.model, pairwise ~ Condition)
+cat("\n\nPost hoc comparisons of interaction technique\n\n")
+print(errordistance.cond.posthocs)
+
+# Post-hoc comparisons of estimated marginal means: task type
+errordistance.task.model <- artlm(distance.art, "Task")
+errordistance.task.posthocs <- emmeans(errordistance.task.model, pairwise ~ Task)
+cat("\n\nPost hoc comparisons of task type\n\n")
+print(errordistance.task.posthocs)
