@@ -7,7 +7,7 @@ library(lme4)
 options(contrasts=c("contr.sum","contr.poly"))
 
 # Import data -- check if this needs to be regenerated first
-data <- read.csv("../all_data.tsv", sep="\t")
+data <- read.csv("/Users/kieranwaugh/Projects/Download/Untitled/Analysis/all_data.tsv", sep="\t")
 
 data$P <- factor(data$P)
 data$Condition <- factor(data$Condition)
